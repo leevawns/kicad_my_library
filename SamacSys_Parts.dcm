@@ -1,21 +1,28 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP L7805ACD2T-TR
+D Voltage Regulator 5V 1A D2PAK STMicroelectronics L78xx L7805ACD2T-TR, Single Linear Voltage Regulator, 1.5A 5 V, 2%, 3-Pin D2PAK
+F https://componentsearchengine.com/Datasheets/1/L7805ACD2T-TR.pdf
+$ENDCMP
+#
 $CMP NE555D
 D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
-K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
-$CMP TBD62083APG
-D 8 channel sink type DMOS transistor array
-K
-F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
+$CMP PC817X3NIP1B
+D Transistor Output Optocouplers OPTOISOLATOR 5KV TRANS SMD, Optoisolator Transistor Output 1 Channel
+F https://componentsearchengine.com/Datasheets/1/PC817X3NIP1B.pdf
 $ENDCMP
 #
 $CMP RC0201FR-0710KL
 D Thick Film Resistors - SMD 10K OHM 1%
-K
 F https://componentsearchengine.com/Datasheets/1/RC0201FR-0710KL.pdf
+$ENDCMP
+#
+$CMP TBD62083APG
+D 8 channel sink type DMOS transistor array
+F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -1,8 +1,55 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AZ850P1-x
+D American Zettler, Microminiature Polarised Dual Pole Relay Bistable
+K Miniature Polarised Relay Dual Pole Bistable
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
+$CMP Arduino_Mega2560_Core
+D  Arduino Mega 2560 CORE
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mega-2560-rev3
+$ENDCMP
+#
+$CMP Ferrite_Bead_RH_3.5x6x0.8
+D Ferrite bead
+K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
+$CMP IRLML0030TRPBF
+D IRLML0030TRPBF
+K IRLML0030TRPBF
+$ENDCMP
+#
+$CMP L298HN
+D Dual full bridge motor driver, up to 46V, 4A, Multiwatt-15
+K H-bridge motor driver
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
+$ENDCMP
+#
 $CMP MAX7219
 D Serially Interfaced, 8-Digit LED Display Driver
 K led, 7segment, display driver, led driver
+$ENDCMP
+#
+$CMP RY5W-K
+D American Zettler, Microminiature Polarised Dual Pole Relay
+K Miniature Polarised Relay Dual Pole
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
+$CMP SRD-5VDC-SL-C
+D Sanyo SRD relay, Single Pole Miniature Power Relay,
+K Single Pole Relay SPDT
+F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+$ENDCMP
+#
+$CMP SS34
+D Diode, filled shape
+K diode
+F ~
 $ENDCMP
 #
 #End Doc Library
