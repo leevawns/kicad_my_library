@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2SK4033
+D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
+K N-Channel MOSFET Logic-Level
+F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-AU
+D 20MHz, 4kB Flash, 512B SRAM, 256B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf
+$ENDCMP
+#
 $CMP AZ850P1-x
 D American Zettler, Microminiature Polarised Dual Pole Relay Bistable
 K Miniature Polarised Relay Dual Pole Bistable
@@ -10,6 +22,12 @@ $CMP Arduino_Mega2560_Core
 D  Arduino Mega 2560 CORE
 K Arduino MPU Shield
 F https://store.arduino.cc/arduino-mega-2560-rev3
+$ENDCMP
+#
+$CMP ERZV07D820
+D varistor
+K varistor
+F https://www.datasheetarchive.com/pdf/download.php?id=507b1ae98aefac8b492166910f000816fa1b0c&type=P&term=v7820
 $ENDCMP
 #
 $CMP Ferrite_Bead_RH_3.5x6x0.8
@@ -34,6 +52,12 @@ D Serially Interfaced, 8-Digit LED Display Driver
 K led, 7segment, display driver, led driver
 $ENDCMP
 #
+$CMP RK09D
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
 $CMP RY5W-K
 D American Zettler, Microminiature Polarised Dual Pole Relay
 K Miniature Polarised Relay Dual Pole
@@ -50,6 +74,69 @@ $CMP SS34
 D Diode, filled shape
 K diode
 F ~
+$ENDCMP
+#
+$CMP SSSF021500
+F https://www.mouser.vn/datasheet/2/15/SSSF-1370783.pdf
+$ENDCMP
+#
+$CMP TBD62083APG
+D 8 channel sink type DMOS transistor array
+F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
+$ENDCMP
+#
+$CMP TD62503FG
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP TP0610L
+D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP TTP223-BA6
+D 1 KEY TOUCH PAD DETECTOR IC
+K TTP223-BA6
+F https://datasheet.lcsc.com/szlcsc/TTP223-BA6_C80757.pdf
+$ENDCMP
+#
+$CMP ULN2002
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP ULN2002A
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP ULN2003A
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP ULN2004
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP ULN2004A
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP VP0610L
+D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
 $ENDCMP
 #
 #End Doc Library

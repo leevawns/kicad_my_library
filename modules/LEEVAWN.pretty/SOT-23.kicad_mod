@@ -1,4 +1,4 @@
-(module SOT-23 (layer F.Cu) (tedit 5C4A764F)
+(module SOT-23 (layer F.Cu) (tedit 5C8367EE)
   (descr "SOT-23, Standard")
   (tags SOT-23)
   (attr smd)
