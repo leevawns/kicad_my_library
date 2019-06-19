@@ -25,4 +25,10 @@ D 8 channel sink type DMOS transistor array
 F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
 $ENDCMP
 #
+$CMP NE555P
+D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 4.5  16 V, 8-Pin PDIP
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
 #End Doc Library

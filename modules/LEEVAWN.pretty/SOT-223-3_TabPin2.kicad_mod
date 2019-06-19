@@ -1,4 +1,4 @@
-(module SOT-223-3_TabPin2 (layer F.Cu) (tedit 5C1210DB)
+(module SOT-223-3_TabPin2 (layer F.Cu) (tedit 5CFFB9CC)
   (descr "module CMS SOT223 4 pins")
   (tags "CMS SOT")
   (attr smd)
@@ -24,7 +24,6 @@
   (fp_line (start 4.524095 3.724255) (end -4.524095 3.724255) (layer F.SilkS) (width 0.25))
   (fp_line (start -4.524095 3.724255) (end -4.524095 -3.724255) (layer F.SilkS) (width 0.25))
   (fp_line (start -4.524095 -3.724255) (end 4.524095 -3.724255) (layer F.SilkS) (width 0.25))
-  (fp_poly (pts (xy -5 -2.25) (xy -6 -1.75) (xy -6 -2.75)) (layer F.SilkS) (width 0.15))
   (pad 2 smd roundrect (at 3.15 0) (size 2 3.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at -3.15 0) (size 2 1.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 3 smd roundrect (at -3.15 2.3) (size 2 1.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
