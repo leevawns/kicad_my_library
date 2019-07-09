@@ -1,4 +1,4 @@
-(module SOT-23 (layer F.Cu) (tedit 5C8367EE)
+(module SOT-23 (layer F.Cu) (tedit 5D244B2A)
   (descr "SOT-23, Standard")
   (tags SOT-23)
   (attr smd)
@@ -24,7 +24,6 @@
   (fp_line (start -1.85 -1.9) (end 1.85 -1.9) (layer F.SilkS) (width 0.25))
   (fp_line (start -1.85 -1.9) (end -1.85 1.9) (layer F.SilkS) (width 0.25))
   (fp_line (start -1.85 1.9) (end 1.85 1.9) (layer F.SilkS) (width 0.25))
-  (fp_poly (pts (xy -2.25 -1.25) (xy -3.25 -1.75) (xy -3.25 -0.75)) (layer F.SilkS) (width 0.15))
   (pad 1 smd roundrect (at -1 -0.95) (size 0.9 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at -1 0.95) (size 0.9 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 3 smd roundrect (at 1 0) (size 0.9 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))

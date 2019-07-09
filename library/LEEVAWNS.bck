@@ -36,6 +36,12 @@ K L ferrite bead inductor filter
 F ~
 $ENDCMP
 #
+$CMP HT7533-1
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
 $CMP IRLML0030TRPBF
 D IRLML0030TRPBF
 K IRLML0030TRPBF
@@ -45,6 +51,24 @@ $CMP L298HN
 D Dual full bridge motor driver, up to 46V, 4A, Multiwatt-15
 K H-bridge motor driver
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
+$ENDCMP
+#
+$CMP LM1117-2.5
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-5.0
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
 $CMP MAX7219
@@ -89,6 +113,48 @@ $CMP TD62503FG
 D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
 K darlington transistor array
 F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP TIC116
+D 8A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220
+K thyristor
+F https://www.princeton.edu/~mae412/HANDOUTS/Datasheets/TIC116.pdf
+$ENDCMP
+#
+$CMP TIC126
+D 12A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220
+K thyristor
+F https://cdn-reichelt.de/documents/datenblatt/A400/TIC126.pdf
+$ENDCMP
+#
+$CMP TLV1117-15
+D 800mA Low-Dropout Linear Regulator, 1.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-18
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-25
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-33
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-50
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
 $ENDCMP
 #
 $CMP TP0610L
@@ -137,6 +203,12 @@ $CMP VP0610L
 D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
 K P-Channel MOSFET
 F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP X0405MF
+D 5A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220
+K thyristor
+F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXyzrtvs.pdf
 $ENDCMP
 #
 #End Doc Library
