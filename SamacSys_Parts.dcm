@@ -31,4 +31,16 @@ K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP ATTINY25-20SU
+D ATTINY25-20SU, 8 bit AVR Microcontroller 20MHz 2, 128kB, B Flash, 128B RAM, I2C SPI 8-Pin SOIC
+K
+F https://componentsearchengine.com/Datasheets/1/ATTINY25-20SU.pdf
+$ENDCMP
+#
+$CMP XG4A-2034
+D Headers & Wire Housings Plug Long Lock 20P RightAngle 1Polarize
+K
+F https://componentsearchengine.com/Datasheets/1/XG4A-2034.pdf
+$ENDCMP
+#
 #End Doc Library

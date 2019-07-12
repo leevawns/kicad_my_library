@@ -12,6 +12,12 @@ K AVR 8bit Microcontroller MegaAVR
 F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf
 $ENDCMP
 #
+$CMP ATTINY25-20SSU
+D 20MHz, 2kB Flash, 128B SRAM, 128B EEPROM, debugWIRE, SOIC-8
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf
+$ENDCMP
+#
 $CMP AZ850P1-x
 D American Zettler, Microminiature Polarised Dual Pole Relay Bistable
 K Miniature Polarised Relay Dual Pole Bistable
@@ -51,6 +57,72 @@ $CMP L298HN
 D Dual full bridge motor driver, up to 46V, 4A, Multiwatt-15
 K H-bridge motor driver
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
+$ENDCMP
+#
+$CMP L7805ACD2T
+D Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7806
+D Positive 1.5A 35V Linear Regulator, Fixed Output 6V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7808
+D Positive 1.5A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7809
+D Positive 1.5A 35V Linear Regulator, Fixed Output 9V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7812
+D Positive 1.5A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7815
+D Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7818
+D Positive 1.5A 35V Linear Regulator, Fixed Output 18V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7824
+D Positive 1.5A 40V Linear Regulator, Fixed Output 24V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP L7885
+D Positive 1.5A 35V Linear Regulator, Fixed Output 8.5V, TO-220/TO-263/TO-252
+K Voltage Regulator 1.5A Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+$ENDCMP
+#
+$CMP LED_RGAB
+D RGB LED, anode/red/green/blue
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP LED_RGB_AC
+D RGB LED, cathode/red/green/blue
+K LED RGB diode
+F ~
 $ENDCMP
 #
 $CMP LM1117-2.5
