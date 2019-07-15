@@ -214,4 +214,25 @@ P 5 0 1 6 200 100 800 100 800 -1100 200 -1100 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model L7805ACD2T-TR
+#/179422/92630/2.43/3/4/Integrated Circuit
+DEF L7805ACD2T-TR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "L7805ACD2T-TR" 1050 200 50 H V L CNN
+F2 "D2PAK-STB35NF10T4" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/L7805ACD2T-TR.pdf" 1050 0 50 H I L CNN
+F4 "Voltage Regulator 5V 1A D2PAK STMicroelectronics L78xx L7805ACD2T-TR, Single Linear Voltage Regulator, 1.5A 5 V, +/-2%, 3-Pin D2PAK" 1050 -100 50 H I L CNN "Description"
+F5 "" 1050 -200 50 H I L CNN "Height"
+F6 "511-L7805ACD2T-TR" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=511-L7805ACD2T-TR" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "L7805ACD2T-TR" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X INPUT 1 0 0 200 R 50 50 0 0 B
+X OUTPUT 3 0 -100 200 R 50 50 0 0 B
+X GND 4 1200 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

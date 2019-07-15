@@ -1,4 +1,4 @@
-(module HOLE-3.5-5.0 (layer F.Cu) (tedit 5C9DCFD9)
+(module HOLE-3.5-5.0 (layer F.Cu) (tedit 5D2C20C2)
   (fp_text reference " " (at -0.25 -4) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -9,5 +9,5 @@
   (fp_circle (center 0 0) (end 5 0) (layer B.CrtYd) (width 0.25))
   (fp_circle (center 0 0) (end 2.5 0) (layer F.Fab) (width 0.25))
   (fp_circle (center 0 0) (end 2.5 0) (layer B.Fab) (width 0.25))
-  (pad 1 thru_hole circle (at 0 0) (size 5 5) (drill 3.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
 )
