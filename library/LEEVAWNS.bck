@@ -113,13 +113,7 @@ K Voltage Regulator 1.5A Positive
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
 $ENDCMP
 #
-$CMP LED_RGAB
-D RGB LED, anode/red/green/blue
-K LED RGB diode
-F ~
-$ENDCMP
-#
-$CMP LED_RGB_AC
+$CMP LED_RGB_A
 D RGB LED, cathode/red/green/blue
 K LED RGB diode
 F ~
