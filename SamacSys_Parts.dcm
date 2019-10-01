@@ -1,13 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATTINY25-20SU
+D ATTINY25-20SU, 8 bit AVR Microcontroller 20MHz 2, 128kB, B Flash, 128B RAM, I2C SPI 8-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/ATTINY25-20SU.pdf
+$ENDCMP
+#
 $CMP L7805ACD2T-TR
 D Voltage Regulator 5V 1A D2PAK STMicroelectronics L78xx L7805ACD2T-TR, Single Linear Voltage Regulator, 1.5A 5 V, +/-2%, 3-Pin D2PAK
-K
 F https://componentsearchengine.com/Datasheets/1/L7805ACD2T-TR.pdf
+$ENDCMP
+#
+$CMP LM1117IMPX-5.0_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+F http://www.ti.com/lit/gpn/lm1117
 $ENDCMP
 #
 $CMP NE555D
 D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NE555P
+D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 4.5  16 V, 8-Pin PDIP
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
@@ -26,22 +40,14 @@ D 8 channel sink type DMOS transistor array
 F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
 $ENDCMP
 #
-$CMP NE555P
-D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 4.5  16 V, 8-Pin PDIP
-K
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
-$ENDCMP
-#
-$CMP ATTINY25-20SU
-D ATTINY25-20SU, 8 bit AVR Microcontroller 20MHz 2, 128kB, B Flash, 128B RAM, I2C SPI 8-Pin SOIC
-K
-F https://componentsearchengine.com/Datasheets/1/ATTINY25-20SU.pdf
-$ENDCMP
-#
 $CMP XG4A-2034
 D Headers & Wire Housings Plug Long Lock 20P RightAngle 1Polarize
-K
 F https://componentsearchengine.com/Datasheets/1/XG4A-2034.pdf
+$ENDCMP
+#
+$CMP XG4C-4034
+D Headers & Wire Housings MIL BoxType Plug 40P RightAngle 1Polarize
+F https://componentsearchengine.com/Datasheets/1/XG4C-4034.pdf
 $ENDCMP
 #
 #End Doc Library

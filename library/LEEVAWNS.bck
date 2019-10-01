@@ -154,6 +154,12 @@ K Miniature Polarised Relay Dual Pole
 F http://www.azettler.com/pdfs/az850.pdf
 $ENDCMP
 #
+$CMP Raspberry_Pi_3B
+D expansion header for Raspberry Pi 2 & 3
+K raspberrypi gpio
+F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf
+$ENDCMP
+#
 $CMP SRD-5VDC-SL-C
 D Sanyo SRD relay, Single Pole Miniature Power Relay,
 K Single Pole Relay SPDT
@@ -275,6 +281,18 @@ $CMP X0405MF
 D 5A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220
 K thyristor
 F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXyzrtvs.pdf
+$ENDCMP
+#
+$CMP XG4A_6434
+D XG4A 6434
+K connector
+F ~
+$ENDCMP
+#
+$CMP XG4C-4034
+D XG4A 6434
+K connector
+F ~
 $ENDCMP
 #
 #End Doc Library
