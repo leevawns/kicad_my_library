@@ -50,4 +50,34 @@ D Headers & Wire Housings MIL BoxType Plug 40P RightAngle 1Polarize
 F https://componentsearchengine.com/Datasheets/1/XG4C-4034.pdf
 $ENDCMP
 #
+$CMP ESD5384NCTBG
+D 
+K
+F https://componentsearchengine.com/Datasheets/1/ESD5384NCTBG.pdf
+$ENDCMP
+#
+$CMP AP2331W-7
+D DiodesZetex AP2331W-7 Load Switch IC, Load Switch, 0.2A, 2.7  5.2V, 3-Pin, SC-59
+K
+F https://componentsearchengine.com/Datasheets/1/AP2331W-7.pdf
+$ENDCMP
+#
+$CMP DMG1012T-7
+D MOSFET N-Channel 20V 0.63A SOT523 Diodes Inc DMG1012T-7 N-channel MOSFET Transistor, 0.63 A, 20 V, 3-Pin SOT-523
+K
+F https://componentsearchengine.com/Datasheets/1/DMG1012T-7.pdf
+$ENDCMP
+#
+$CMP PAM2306AYPKE
+D DUAL PWM ST-DOWN DC-DC CONVerter DiodesZetex PAM2306AYPKE, Dual Step Down DC-DC Converter, 1A, Maximum of 3.3 V, 12-Pin WDFN
+K
+F https://componentsearchengine.com/Datasheets/1/PAM2306AYPKE.pdf
+$ENDCMP
+#
+$CMP PAM8403DR
+D Class-D Stereo Audio Amp 5V 2x3W SOP16 DiodesZetex PAM8403DR Audio Amplifier, Class-D Stereo, 16-Pin SOP
+K
+F https://componentsearchengine.com/Datasheets/1/PAM8403DR.pdf
+$ENDCMP
+#
 #End Doc Library

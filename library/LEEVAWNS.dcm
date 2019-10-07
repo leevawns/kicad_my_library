@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +VBUSB
+D Power flag
+K power-flag
+$ENDCMP
+#
 $CMP 2SK4033
 D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
 K N-Channel MOSFET Logic-Level
@@ -30,6 +35,18 @@ K Arduino MPU Shield
 F https://store.arduino.cc/arduino-mega-2560-rev3
 $ENDCMP
 #
+$CMP BAV199DW
+D Quad Surface Mount Low Leakage Diode, SOT-363
+K Quad diode
+F https://www.diodes.com/assets/Datasheets/ds30417.pdf
+$ENDCMP
+#
+$CMP BAV99
+D High-speed switching diodes, dual series, SOT-363
+K Diode
+F https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
+$ENDCMP
+#
 $CMP ERZV07D820
 D varistor
 K varistor
@@ -46,6 +63,16 @@ $CMP HT7533-1
 D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
 K linear regulator ldo fixed positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP HUB_1V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP HUB_3V3
+D Power flag
+K power-flag
 $ENDCMP
 #
 $CMP IRLML0030TRPBF
@@ -269,6 +296,12 @@ $CMP ULN2004A
 D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
 K darlington transistor array
 F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+F  ~
 $ENDCMP
 #
 $CMP VP0610L
