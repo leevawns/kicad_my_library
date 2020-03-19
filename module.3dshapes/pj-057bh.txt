@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15052018-123133";"";
+"REFERENCE";"PJ-057BH";"";
+"TraceParts.PartTitle";"PJ-057BH - 2.5 mm Center Pin, 5.0 A, Right Angle, Through Hole, Pick-n-Place Top, Dc Power Jack Connector, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-15052018-123133EISUSKYAU9S9RK0CX7WFOHG3L";"";
+"DESIGN";"2.5 mm Center Pin, 5.0 A, Right Angle, Through Hole, Pick-n-Place Top, Dc Power Jack Connector";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:/F_CUI/CUI.020/CUI.020.020/CUI.020.020.010/CUI.020.020.010.090/10-15052018-123133";"";

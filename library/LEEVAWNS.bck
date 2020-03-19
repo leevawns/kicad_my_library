@@ -11,6 +11,12 @@ K N-Channel MOSFET Logic-Level
 F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
 $ENDCMP
 #
+$CMP 8P8C_LED_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45, Shielded
+K 8P8C RJ female connector led
+F ~
+$ENDCMP
+#
 $CMP ATMEGA328P-AU
 D 20MHz, 4kB Flash, 512B SRAM, 256B EEPROM, TQFP-32
 K AVR 8bit Microcontroller MegaAVR
@@ -45,6 +51,27 @@ $CMP BAV99
 D High-speed switching diodes, dual series, SOT-363
 K Diode
 F https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP BAV99W
+D DUAL SURFACE MOUNT SWITCHING DIODE
+$ENDCMP
+#
+$CMP CDRH5D28
+D Cuộn Cảm 4.7UH 5D28 SMD 5.8x5.2x3.2
+F https://products.sumida.com/products/pdf/CDRH5D28.pdf
+$ENDCMP
+#
+$CMP CON-SOCJ-2155
+D DC Barrel Jack with an internal switch
+K DC power barrel jack connector
+F http://www.gravitech.us/poja2x51.html
+$ENDCMP
+#
+$CMP EEU-FP1E681
+D Polarized capacitor, 680 uF, 25 VDC,D =10 mm,L=16 mm,LEAD  SPACE= 5mm
+K cap capacitor
+F https://www.mouser.vn/datasheet/2/315/RDF0000C1260-1391675.pdf
 $ENDCMP
 #
 $CMP ERZV07D820
@@ -164,9 +191,27 @@ K linear regulator ldo fixed positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
+$CMP LPJ0011FBNL
+D RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45
+K 8P8C RJ female connector led
+F ~
+$ENDCMP
+#
 $CMP MAX7219
 D Serially Interfaced, 8-Digit LED Display Driver
 K led, 7segment, display driver, led driver
+$ENDCMP
+#
+$CMP RJ45_LED
+D RJ connector, 8P8C (8 positions 8 connected), two LEDs
+K 8P8C RJ female connector led
+F ~
+$ENDCMP
+#
+$CMP RJ45_LED_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), two LEDs, Shielded
+K 8P8C RJ female connector led
+F ~
 $ENDCMP
 #
 $CMP RK09D
@@ -308,6 +353,11 @@ $CMP VP0610L
 D -0.18A Id, -60V Vds, P-Channel MOSFET, TO-92
 K P-Channel MOSFET
 F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP W5500
+D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
+F https://componentsearchengine.com/Datasheets/1/W5500.pdf
 $ENDCMP
 #
 $CMP X0405MF

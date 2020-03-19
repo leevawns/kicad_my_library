@@ -1,8 +1,47 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 61400416021
+D WR-COM USB Connector A horizontal Wurth Elektronik WR-COM Series, Right Angle Type A USB Connector Socket, 30 V ac, 1.5A
+F https://componentsearchengine.com/Datasheets/1/61400416021.pdf
+$ENDCMP
+#
+$CMP 7447709330
+D SMD-Shielded Power Inductors WE-PD
+F https://componentsearchengine.com/Datasheets/1/7447709330.pdf
+$ENDCMP
+#
+$CMP AP2331W-7
+D DiodesZetex AP2331W-7 Load Switch IC, Load Switch, 0.2A, 2.7  5.2V, 3-Pin, SC-59
+F https://componentsearchengine.com/Datasheets/1/AP2331W-7.pdf
+$ENDCMP
+#
+$CMP AP7115-25SEG-7
+D DiodesZetex AP7115-25SEG-7, LDO Voltage Regulator, 150mA, 2.5 V +/-2%, 2.5  5.5 Vin, 5-Pin SOT-353
+F https://componentsearchengine.com/Datasheets/1/AP7115-25SEG-7.pdf
+$ENDCMP
+#
 $CMP ATTINY25-20SU
 D ATTINY25-20SU, 8 bit AVR Microcontroller 20MHz 2, 128kB, B Flash, 128B RAM, I2C SPI 8-Pin SOIC
 F https://componentsearchengine.com/Datasheets/1/ATTINY25-20SU.pdf
+$ENDCMP
+#
+$CMP CSTNE12M0G550000R0
+D Resonators 12.0000MHz 33pF SMD CHP Resntr
+F https://www.murata.com/en-eu/products/productdata/8801162067998/SPEC-CSTNE12M0G550000R0.pdf?1559743212000
+$ENDCMP
+#
+$CMP DMG1012T-7
+D MOSFET N-Channel 20V 0.63A SOT523 Diodes Inc DMG1012T-7 N-channel MOSFET Transistor, 0.63 A, 20 V, 3-Pin SOT-523
+F https://componentsearchengine.com/Datasheets/1/DMG1012T-7.pdf
+$ENDCMP
+#
+$CMP ESD5384NCTBG
+F https://componentsearchengine.com/Datasheets/1/ESD5384NCTBG.pdf
+$ENDCMP
+#
+$CMP G5NB-1A-E-DC5
+D General Purpose Relays SPST-NO Flux-Tight 5VDC High-Capacity
+F https://componentsearchengine.com/Datasheets/1/G5NB-1A-E-DC5.pdf
 $ENDCMP
 #
 $CMP L7805ACD2T-TR
@@ -15,6 +54,11 @@ D Space saving 800-mA low-dropout linear regulator with internal current limit
 F http://www.ti.com/lit/gpn/lm1117
 $ENDCMP
 #
+$CMP MCP23008T-E_ML
+D MICROCHIP - MCP23008T-E/ML - I/O EXPANDER, 8BIT, 1.7MHZ, QFN-20
+F https://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf
+$ENDCMP
+#
 $CMP NE555D
 D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
@@ -23,6 +67,16 @@ $ENDCMP
 $CMP NE555P
 D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 4.5  16 V, 8-Pin PDIP
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PAM2306AYPKE
+D DUAL PWM ST-DOWN DC-DC CONVerter DiodesZetex PAM2306AYPKE, Dual Step Down DC-DC Converter, 1A, Maximum of 3.3 V, 12-Pin WDFN
+F https://componentsearchengine.com/Datasheets/1/PAM2306AYPKE.pdf
+$ENDCMP
+#
+$CMP PAM8403DR
+D Class-D Stereo Audio Amp 5V 2x3W SOP16 DiodesZetex PAM8403DR Audio Amplifier, Class-D Stereo, 16-Pin SOP
+F https://componentsearchengine.com/Datasheets/1/PAM8403DR.pdf
 $ENDCMP
 #
 $CMP PC817X3NIP1B
@@ -40,6 +94,16 @@ D 8 channel sink type DMOS transistor array
 F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
 $ENDCMP
 #
+$CMP TFP09-2-12B
+D Micro SD Card Connector
+F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
+$ENDCMP
+#
+$CMP W5500
+D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
+F https://componentsearchengine.com/Datasheets/1/W5500.pdf
+$ENDCMP
+#
 $CMP XG4A-2034
 D Headers & Wire Housings Plug Long Lock 20P RightAngle 1Polarize
 F https://componentsearchengine.com/Datasheets/1/XG4A-2034.pdf
@@ -48,36 +112,6 @@ $ENDCMP
 $CMP XG4C-4034
 D Headers & Wire Housings MIL BoxType Plug 40P RightAngle 1Polarize
 F https://componentsearchengine.com/Datasheets/1/XG4C-4034.pdf
-$ENDCMP
-#
-$CMP ESD5384NCTBG
-D 
-K
-F https://componentsearchengine.com/Datasheets/1/ESD5384NCTBG.pdf
-$ENDCMP
-#
-$CMP AP2331W-7
-D DiodesZetex AP2331W-7 Load Switch IC, Load Switch, 0.2A, 2.7  5.2V, 3-Pin, SC-59
-K
-F https://componentsearchengine.com/Datasheets/1/AP2331W-7.pdf
-$ENDCMP
-#
-$CMP DMG1012T-7
-D MOSFET N-Channel 20V 0.63A SOT523 Diodes Inc DMG1012T-7 N-channel MOSFET Transistor, 0.63 A, 20 V, 3-Pin SOT-523
-K
-F https://componentsearchengine.com/Datasheets/1/DMG1012T-7.pdf
-$ENDCMP
-#
-$CMP PAM2306AYPKE
-D DUAL PWM ST-DOWN DC-DC CONVerter DiodesZetex PAM2306AYPKE, Dual Step Down DC-DC Converter, 1A, Maximum of 3.3 V, 12-Pin WDFN
-K
-F https://componentsearchengine.com/Datasheets/1/PAM2306AYPKE.pdf
-$ENDCMP
-#
-$CMP PAM8403DR
-D Class-D Stereo Audio Amp 5V 2x3W SOP16 DiodesZetex PAM8403DR Audio Amplifier, Class-D Stereo, 16-Pin SOP
-K
-F https://componentsearchengine.com/Datasheets/1/PAM8403DR.pdf
 $ENDCMP
 #
 #End Doc Library
