@@ -5,6 +5,12 @@ D Power flag
 K power-flag
 $ENDCMP
 #
+$CMP 1206YD105KAT2A
+D CAP CER 1UF 16V X5R 1206
+K capacitor cap
+F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
 $CMP 2SK4033
 D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
 K N-Channel MOSFET Logic-Level
