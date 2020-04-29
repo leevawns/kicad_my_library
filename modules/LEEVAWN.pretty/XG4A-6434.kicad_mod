@@ -1,4 +1,4 @@
-(module XG4A-6434 (layer F.Cu) (tedit 5D85D175)
+(module XG4A-6434 (layer F.Cu) (tedit 5E8D608A)
   (descr XG4A-2034-1)
   (tags Connector)
   (fp_text reference CN** (at -47.56 4.77 180) (layer F.SilkS)
@@ -104,7 +104,7 @@
   (pad 64 thru_hole circle (at 39.37 -1.27) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 45.2 -0.57) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -45.2 -0.57) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
-  (model G:/kicad_my_library/module.3dshapes/XG4A_6434.step
+  (model C:/kicad_my_library/module.3dshapes/XG4A_6434.step
     (offset (xyz 0 11 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

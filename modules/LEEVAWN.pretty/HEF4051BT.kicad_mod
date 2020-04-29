@@ -1,4 +1,4 @@
-(module HEF4051BT (layer F.Cu) (tedit 5D52BED7)
+(module HEF4051BT (layer F.Cu) (tedit 5E885B4A)
   (descr "16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "SOIC 1.27")
   (attr smd)
