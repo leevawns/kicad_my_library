@@ -80,6 +80,12 @@ K varistor
 F https://www.datasheetarchive.com/pdf/download.php?id=507b1ae98aefac8b492166910f000816fa1b0c&type=P&term=v7820
 $ENDCMP
 #
+$CMP Fan_12VDC_30x30x10mm
+D Fan
+K Fan Motor
+F ~
+$ENDCMP
+#
 $CMP Ferrite_Bead_RH_3.5x6x0.8
 D Ferrite bead
 K L ferrite bead inductor filter
