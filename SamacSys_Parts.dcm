@@ -10,6 +10,11 @@ D SMD-Shielded Power Inductors WE-PD
 F https://componentsearchengine.com/Datasheets/1/7447709330.pdf
 $ENDCMP
 #
+$CMP ADT2-1T+
+D Xfmr, Isolation, 50 ohm, 2: 1, 0.4-450 MHz, SMT
+F https://componentsearchengine.com/Datasheets/1/ADT2-1T+.pdf
+$ENDCMP
+#
 $CMP AP2331W-7
 D DiodesZetex AP2331W-7 Load Switch IC, Load Switch, 0.2A, 2.7  5.2V, 3-Pin, SC-59
 F https://componentsearchengine.com/Datasheets/1/AP2331W-7.pdf
@@ -69,6 +74,10 @@ D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP OPA857IRGTT
+D Ultralow-Noise, Wideband, Pseudo-Differential Output Transimpedance Amplifier
+$ENDCMP
+#
 $CMP PAM2306AYPKE
 D DUAL PWM ST-DOWN DC-DC CONVerter DiodesZetex PAM2306AYPKE, Dual Step Down DC-DC Converter, 1A, Maximum of 3.3 V, 12-Pin WDFN
 F https://componentsearchengine.com/Datasheets/1/PAM2306AYPKE.pdf
@@ -99,6 +108,11 @@ D Micro SD Card Connector
 F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
 $ENDCMP
 #
+$CMP THS4541IRGTT
+D Texas Instruments THS4541IRGTT, Differential Amplifier 850MHz Rail to Rail Output 16-Pin QFN
+F http://www.ti.com/lit/ds/symlink/ths4541.pdf
+$ENDCMP
+#
 $CMP W5500
 D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
 F https://componentsearchengine.com/Datasheets/1/W5500.pdf
@@ -112,6 +126,12 @@ $ENDCMP
 $CMP XG4C-4034
 D Headers & Wire Housings MIL BoxType Plug 40P RightAngle 1Polarize
 F https://componentsearchengine.com/Datasheets/1/XG4C-4034.pdf
+$ENDCMP
+#
+$CMP XG4C-3034
+D Headers & Wire Housings MIL BoxType Plug 30P RightAngle 1Polarize
+K
+F https://componentsearchengine.com/Datasheets/1/XG4C-3034.pdf
 $ENDCMP
 #
 #End Doc Library

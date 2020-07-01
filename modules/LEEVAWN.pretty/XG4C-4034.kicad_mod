@@ -1,10 +1,10 @@
-(module XG4C4034 (layer F.Cu) (tedit 5D6C9B4A)
-  (descr XG4C-4034-3)
+(module XG4C-4034 (layer F.Cu) (tedit 5E8D6469)
+  (descr XG4C-4034)
   (tags Connector)
   (fp_text reference J** (at -28.75 -4.75) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value XG4C4034 (at -0.13 4.07) (layer F.SilkS) hide
+  (fp_text value XG4C-4034 (at -0.13 4.07) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_line (start -29.18 10.59) (end 28.92 10.59) (layer F.Fab) (width 0.1))
@@ -63,7 +63,7 @@
   (pad 38 thru_hole circle (at -21.72 1.29 90) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole circle (at -24.26 -1.25 90) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole circle (at -24.26 1.29 90) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
-  (model G:/kicad_my_library/module.3dshapes/XG4C-4034.stp
+  (model C:/kicad_my_library/module.3dshapes/XG4C-4034.stp
     (offset (xyz -0.1 -2.1 4.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

@@ -5,16 +5,148 @@ D Power flag
 K power-flag
 $ENDCMP
 #
+$CMP 1206YD105KAT2A
+D CAP CER 1UF 16V X5R 1206
+K 1206YD105KAT2A
+F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+$CMP 1N4148WS-7-F
+D DIODE SWITCH 75V 200MW SOD323
+K diode
+F ~
+$ENDCMP
+#
+$CMP 1N5819HW-7-F
+D DIODE SCHOTTKY 40V 1A SOD123
+K 1N5819HW-7-F
+F https://www.diodes.com/assets/Datasheets/ds30217.pdf
+$ENDCMP
+#
+$CMP 292304-1
+D CONN RCPT USB2.0 TYPEB 4POS R/A
+K 292304-1
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292304&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
 $CMP 2SK4033
 D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
 K N-Channel MOSFET Logic-Level
 F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
 $ENDCMP
 #
+$CMP 4816P-1-101LF
+D 8 resistor network, 100ohm, parallel topology, SMD package
+K R network parallel topology isolated
+F ~
+$ENDCMP
+#
+$CMP 61300611121
+D CONN HEADER VERT 6POS 2.54MM
+K 61300611121
+F https://katalog.we-online.de/em/datasheet/6130xx11121.pdf
+$ENDCMP
+#
+$CMP 61300811121
+D CONN HEADER VERT 8POS 2.54MM
+K 61300811121
+F https://katalog.we-online.de/em/datasheet/6130xx11121.pdf
+$ENDCMP
+#
+$CMP 61301011121
+D CONN HEADER VERT 10POS 2.54MM
+K 61301011121
+F https://katalog.we-online.de/em/datasheet/6130xx11121.pdf
+$ENDCMP
+#
+$CMP 694106106102
+D CONN PWR JACK 2.05X5.5MM SOLDER
+K 694106106102
+F https://www.we-online.de/katalog/datasheet/6941xx106102.pdf
+$ENDCMP
+#
+$CMP 74AHC273
+D 8-bit D Flip-Flop, reset
+K AHCMOS DFF DFF8
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT273.pdf
+$ENDCMP
+#
+$CMP 74AHCT273
+D 8-bit D Flip-Flop, reset
+K AHCTMOS DFF DFF8
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT273.pdf
+$ENDCMP
+#
+$CMP 74HC273
+D 8-bit D Flip-Flop, reset
+K HCMOS DFF DFF8
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT273.pdf
+$ENDCMP
+#
+$CMP 74HC595D
+D IC SHIFT REGISTER 8BIT 16SOIC
+K HCMOS SR 3State
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf
+$ENDCMP
+#
+$CMP 74HCT273
+D 8-bit D Flip-Flop, reset
+K HCTMOS DFF DFF8
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT273.pdf
+$ENDCMP
+#
+$CMP 74HCT4051
+D 8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16
+K TTL Multiplexer Demultiplexer Analog
+F http://www.ti.com/lit/ds/symlink/cd74hct4051.pdf
+$ENDCMP
+#
+$CMP 74HCT541
+D 8-bit Buffer/Line Driver 3-state outputs
+K TTL BUFFER 3State BUS
+F http://www.ti.com/lit/gpn/sn74HCT541
+$ENDCMP
+#
+$CMP 74HCT595
+D 8-bit serial in/out Shift Register 3-State Outputs
+K HCTMOS SR 3State
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf
+$ENDCMP
+#
+$CMP 74LS595
+D 8-bit serial in/out Shift Register 3-State Outputs
+K TTL SR 3State
+F http://www.ti.com/lit/gpn/sn74ls595
+$ENDCMP
+#
+$CMP 853050232
+D CONN SMP PLUG STR 50 OHM SMD
+K 853050232
+F https://www.molex.com/pdm_docs/sd/853050232_sd.pdf
+$ENDCMP
+#
+$CMP 865080342006
+D CAP ALUM 47UF 16V 20% SMD
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP 8P8C_LED_Shielded
 D RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45, Shielded
 K 8P8C RJ female connector led
 F ~
+$ENDCMP
+#
+$CMP ADT2-1T+
+D Audio Transformers / Signal Transformers 1:2 CORE & WIRE Transformer, 0.4 - 450 MHz, 50
+K ADT2-1T+
+F https://www.mouser.vn/datasheet/2/1030/ADT2-1T_2b-1700368.pdf
+$ENDCMP
+#
+$CMP ATMEGA16U2-AU
+D IC MCU 8BIT 16KB FLASH 32TQFP
+K ATMEGA16U2-AU
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590463
 $ENDCMP
 #
 $CMP ATMEGA328P-AU
@@ -30,6 +162,12 @@ F http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcont
 $ENDCMP
 #
 $CMP AZ850P1-x
+D American Zettler, Microminiature Polarised Dual Pole Relay Bistable
+K Miniature Polarised Relay Dual Pole Bistable
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
+$CMP AZ850P1-x_copy
 D American Zettler, Microminiature Polarised Dual Pole Relay Bistable
 K Miniature Polarised Relay Dual Pole Bistable
 F http://www.azettler.com/pdfs/az850.pdf
@@ -57,15 +195,87 @@ $CMP BAV99W
 D DUAL SURFACE MOUNT SWITCHING DIODE
 $ENDCMP
 #
+$CMP C1206C104K3RACTU
+D CAP CER 0.1UF 25V X7R 1206
+K C1206C104K3RACTU
+F https://api.kemet.com/component-edge/download/datasheet/C1206C104K3RACTU.pdf
+$ENDCMP
+#
+$CMP C1206C104K5RAC7800
+D CAP CER 0.1UF 50V X7R 1206
+K 1206YD105KAT2A
+F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
+$CMP C1206C106K3RACTU
+D CAP CER 10UF 25V X7R 1206
+K C1206C104K3RACTU
+F https://api.kemet.com/component-edge/download/datasheet/C1206C106K3RACTU.pdf
+$ENDCMP
+#
+$CMP C1206C220K5GACTU
+D CAP CER 22PF 50V C0G/NP0 1206
+K C1206C220K5GACTU
+F https://api.kemet.com/component-edge/download/datasheet/C1206C220K2GACTU.pdf
+$ENDCMP
+#
+$CMP CC1206ZRY5V8BB225
+D CAP CER 2.2UF 25V Y5V 1206
+K CC1206ZRY5V8BB225
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_Y5V_6.3V-to-50V_9.pdf
+$ENDCMP
+#
+$CMP CDCLVC1102PW
+D IC CLK BUFFER 1:2 250MHZ 8TSSOP
+K CDCLVC1102PW
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcdclvc1102
+$ENDCMP
+#
 $CMP CDRH5D28
 D Cuộn Cảm 4.7UH 5D28 SMD 5.8x5.2x3.2
 F https://products.sumida.com/products/pdf/CDRH5D28.pdf
+$ENDCMP
+#
+$CMP CGA5L3X8R1H105K160AD
+D CAP CER 1UF 50V X8R 1206 EPOXY
+K 1206YD105KAT2A
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_epoxy_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP CL31C010CBCNNNC
+D CAP CER 1PF 50V C0G/NP0 1206
+K CL31C010CBCNNNC
+F http://www.samsungsem.com/kr/support/product-search/mlcc/CL31C010CBCNNNC.jsp
 $ENDCMP
 #
 $CMP CON-SOCJ-2155
 D DC Barrel Jack with an internal switch
 K DC power barrel jack connector
 F http://www.gravitech.us/poja2x51.html
+$ENDCMP
+#
+$CMP CP_Small_47uf_16v_smd_D5L5
+D CAP ALUM 47UF 16V 20% SMD
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CRCW080510K0FKEAC
+D 10 kOhms, 0805
+K r resistor
+F ~
+$ENDCMP
+#
+$CMP CRGCQ1206F10R
+D CRGCQ 1206 10R 1%
+K CRGCQ1206F10R
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-3&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP ECJ-2VC1H104J
+D CAP 100nF 50V CERM CHIP 0805 SMD
+K capacitor cap
+F ~
 $ENDCMP
 #
 $CMP EEU-FP1E681
@@ -80,16 +290,53 @@ K varistor
 F https://www.datasheetarchive.com/pdf/download.php?id=507b1ae98aefac8b492166910f000816fa1b0c&type=P&term=v7820
 $ENDCMP
 #
+<<<<<<< HEAD
 $CMP Fan_12VDC_30x30x10mm
 D Fan
 K Fan Motor
 F ~
+=======
+$CMP FBMH2012HM121-T
+D FERRITE BEAD 120 OHM 0805
+K FBMH2012HM121-T
+F http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf
+$ENDCMP
+#
+$CMP FDN340P
+D MOSFET P-CH 20V 2A SSOT3
+K FDN340P
+F https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF
+>>>>>>> 14627f97263f849f62a54110bb4d8f6c89b04f5b
 $ENDCMP
 #
 $CMP Ferrite_Bead_RH_3.5x6x0.8
 D Ferrite bead
 K L ferrite bead inductor filter
 F ~
+$ENDCMP
+#
+$CMP GRM31CE70J476ME15L
+D CAP CER 47UF 6.3V X7U 1206
+K 1206YD105KAT2A
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CE70J476ME15-01.pdf
+$ENDCMP
+#
+$CMP GRM31MR61C105KA01L
+D CAP CER 1UF 16V X5R 1206
+K GRM31MR61C105KA01L
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us
+$ENDCMP
+#
+$CMP HEF4051BT
+D 8-channel analog multiplexer/demultiplexer,SOIC-16
+K HCMOS Multiplexer Demultiplexer Analog
+F https://www.mouser.vn/datasheet/2/916/HEF4051B-1320000.pdf
+$ENDCMP
+#
+$CMP HRG3216Q-22R0-D-T1
+D RES SMD 22 OHM 0.5% 1W 1206
+K HRG3216Q-22R0-D-T1
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
 $CMP HT7533-1
@@ -173,10 +420,22 @@ K Voltage Regulator 1.5A Positive
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
 $ENDCMP
 #
+$CMP LD1117S50TR
+D IC REG LINEAR 5V 800MA SOT223
+K LD1117S50TR
+F https://www.mouser.vn/datasheet/2/389/cd00000544-1795431.pdf
+$ENDCMP
+#
 $CMP LED_RGB_A
 D RGB LED, cathode/red/green/blue
 K LED RGB diode
 F ~
+$ENDCMP
+#
+$CMP LFXTAL027945BULK
+D CRYSTAL 16.0000MHZ 22PF TH
+K LFXTAL027945BULK
+F https://www.iqdfrequencyproducts.com/products/pn/LFXTAL027945Bulk.pdf
 $ENDCMP
 #
 $CMP LM1117-2.5
@@ -197,15 +456,93 @@ K linear regulator ldo fixed positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
+$CMP LMV358IDGKR
+D IC OPAMP GP 2 CIRCUIT 8VSSOP
+K LMV358IDGKR-AU
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LP2985-33DBVR
+D IC REG LINEAR 3.3V 150MA SOT23-5
+K LP2985-33DBVR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp2985
+$ENDCMP
+#
 $CMP LPJ0011FBNL
 D RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45
 K 8P8C RJ female connector led
 F ~
 $ENDCMP
 #
+$CMP LQM21PZ4R7NGRD
+D Fixed Inductors 0805 4.7uH +-30% 0.8A Rdc = 0.288ohm
+K inductor
+F https://www.mouser.vn/datasheet/2/281/JELF243B-9114-961452.pdf
+$ENDCMP
+#
+$CMP LTST-C150CKT
+D LED RED CLEAR 1206 SMD
+K LTST-C150CKT
+F http://optoelectronics.liteon.com/upload/download/DS-22-98-0002/LTST-C150CKT.pdf
+$ENDCMP
+#
+$CMP M20-9980346
+D CONN HEADER VERT 6POS 2.54MM
+K M20-9980346
+F https://cdn.harwin.com/pdfs/M20-998.pdf
+$ENDCMP
+#
 $CMP MAX7219
 D Serially Interfaced, 8-Digit LED Display Driver
 K led, 7segment, display driver, led driver
+$ENDCMP
+#
+$CMP MF-MSMF050-2
+D PTC RESET FUSE 15V 500MA 1812
+K fuse
+F https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf
+$ENDCMP
+#
+$CMP OPA857IRGTT
+D IC OPAMP GP 1 CIRCUIT 16VQFN
+K OPA857IRGTT
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa857
+$ENDCMP
+#
+$CMP RC1206FR-071ML
+D RES 0 OHM JUMPER 1/4W 1206
+K RC1206FR-071ML
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC1206JR-0710KL
+D RES SMD 10K OHM 5% 1/4W 1206
+K RC1206JR-0710KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC1206JR-071KL
+D RES SMD 1K OHM 5% 1/4W 1206
+K RC1206JR-071KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RCU-0C
+D PC TEST POINT NATURAL
+K RCU-0C
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP RCWE1206R510DKEA
+D RES 0.51 OHM 0.5% 1/2W 1206
+K RCWE1206R510DKEA
+F http://www.vishay.com/docs/20019/rcwe.pdf
+$ENDCMP
+#
+$CMP REG104GA-3.3
+D IC REG LINEAR 3.3V 1A SOT223-6
+K REG104GA-3.3
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Freg104
 $ENDCMP
 #
 $CMP RJ45_LED
@@ -226,6 +563,12 @@ K resistor variable
 F ~
 $ENDCMP
 #
+$CMP RY12W-K
+D American Zettler, Microminiature Polarised Dual Pole Relay
+K Miniature Polarised Relay Dual Pole
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
 $CMP RY5W-K
 D American Zettler, Microminiature Polarised Dual Pole Relay
 K Miniature Polarised Relay Dual Pole
@@ -236,6 +579,30 @@ $CMP Raspberry_Pi_3B
 D expansion header for Raspberry Pi 2 & 3
 K raspberrypi gpio
 F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf
+$ENDCMP
+#
+$CMP SFH_2701
+D SENSOR PHOTODIODE 820NM 2SMD
+K diode
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2495903/SFH%202701.pdf
+$ENDCMP
+#
+$CMP SN74LV273ANS
+D 8-bit D Flip-Flop, reset, SO-20
+K TTL DFF DFF8
+F http://www.ti.com/lit/gpn/sn74LS273
+$ENDCMP
+#
+$CMP SN74LV541ADBR
+D 8-bit Buffer/Line Driver 3-state outputs,SSOP-20
+K TTL BUFFER 3State BUS
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lv541a
+$ENDCMP
+#
+$CMP SPL_PL90
+D LASER DIODE 905NM 30W RADIAL
+K SPL_PL90
+F https://dammedia.osram.info/media/resource/hires/osram-dam-6189135/SPL%20PL90_EN.pdf
 $ENDCMP
 #
 $CMP SRD-5VDC-SL-C
@@ -275,6 +642,12 @@ $CMP TIC126
 D 12A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220
 K thyristor
 F https://cdn-reichelt.de/documents/datenblatt/A400/TIC126.pdf
+$ENDCMP
+#
+$CMP TL1105CF160Q
+D SWITCH TACTILE SPST-NO 0.05A 12V
+K TL1105CF160Q
+F https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/144/TL1105.pdf
 $ENDCMP
 #
 $CMP TLV1117-15
@@ -373,6 +746,12 @@ F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXyzrtvs.pdf
 $ENDCMP
 #
 $CMP XG4A_6434
+D XG4A 6434, Headers & Wire Housings, 64 pin, male
+K connector
+F ~
+$ENDCMP
+#
+$CMP XG4C-3034
 D XG4A 6434
 K connector
 F ~

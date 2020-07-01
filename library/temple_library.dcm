@@ -1,0 +1,80 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONNECTOR_TEMPLE
+D CONN HEADER VERT 2POS 2.54MM
+K connector
+F http://suddendocs.samtec.com/catalog_english/htsw_th.pdf
+$ENDCMP
+#
+$CMP C_TEMPLE
+D CAP CER 1UF 16V X5R 1206
+K 1206YD105KAT2A
+F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+$CMP D_TEMPLE
+D Diode, small symbol, filled shape
+K diode
+F ~
+$ENDCMP
+#
+$CMP FERRITE_BEAD_TEMPLE
+D FERRITE BEAD 120 OHM 1206 1LN
+K inductor
+F https://katalog.we-online.de/pbs/datasheet/742792113.pdf
+$ENDCMP
+#
+$CMP Fuse_Small
+D Fuse, small symbol
+K fuse
+F ~
+$ENDCMP
+#
+$CMP IC_TEMPLE
+D IC MCU 8BIT 16KB FLASH 32TQFP
+K ATMEGA16U2-AU
+$ENDCMP
+#
+$CMP INDUCTOR_TEMPLE
+D FERRITE BEAD 120 OHM 1206 1LN
+K inductor
+F https://katalog.we-online.de/pbs/datasheet/742792113.pdf
+$ENDCMP
+#
+$CMP LED
+D LED GREEN CLEAR 1206 SMD
+K LTST-C150KGKT
+F http://optoelectronics.liteon.com/upload/download/DS22-2000-072/LTST-C150KGKT.pdf
+$ENDCMP
+#
+$CMP LED_TEMPLE
+D LED RED CLEAR 1206 SMD
+K LED_TEMPLE
+F http://optoelectronics.liteon.com/upload/download/DS-22-98-0002/LTST-C150CKT.pdf
+$ENDCMP
+#
+$CMP Q_PMOS_DGS
+D P-MOSFET transistor, drain/gate/source
+K transistor PMOS P-MOS P-MOSFET
+F https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF
+$ENDCMP
+#
+$CMP Q_PMOS_GSD
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
+$CMP R_TEMPLE
+D RES 0 OHM JUMPER 1/4W 1206
+K R
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+$ENDCMP
+#
+$CMP VARISTOR_TEMPLE
+D CAP CER 1UF 16V X5R 1206
+K 1206YD105KAT2A
+F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+#End Doc Library
