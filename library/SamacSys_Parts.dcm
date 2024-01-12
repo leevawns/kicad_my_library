@@ -1,0 +1,470 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0747540101
+D CONN SFP+ CAGE PRESS-FIT R/A
+F https://www.molex.com/pdm_docs/sd/747540101_sd.pdf
+$ENDCMP
+#
+$CMP 10CX220YF780E5G
+D FPGA - Field Programmable Gate Array
+$ENDCMP
+#
+$CMP 2040247-5
+D HDMI, Displayport & DVI Connectors Rcpt R/A SMT w/Boss w/ Mtg Flange
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2040247%7FD1%7Fpdf%7FEnglish%7FENG_CD_2040247_D1.pdf%7F2040247-5
+$ENDCMP
+#
+$CMP 47272-0024
+D HDMI, Displayport & DVI Connectors .5MM RA SMT RECPT 30AU W/LATCH HLS
+$ENDCMP
+#
+$CMP 61400416021
+D WR-COM USB Connector A horizontal Wurth Elektronik WR-COM Series, Right Angle Type A USB Connector Socket, 30 V ac, 1.5A
+F https://componentsearchengine.com/Datasheets/1/61400416021.pdf
+$ENDCMP
+#
+$CMP 744025220
+D Wurth WE-TPC Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 22 uH +/-20% 750mA Idc
+$ENDCMP
+#
+$CMP 7447709330
+D SMD-Shielded Power Inductors WE-PD
+F https://componentsearchengine.com/Datasheets/1/7447709330.pdf
+$ENDCMP
+#
+$CMP 744773122
+D Wurth Shielded Wire-wound SMD Inductor 22 uH +/-20% 1A Idc
+F http://componentsearchengine.com/Datasheets/1/744773122.pdf
+$ENDCMP
+#
+$CMP 901-143-6RFX
+D AMPHENOL RF - 901-143-6RFX - RF COAXIAL, SMA, RIGHT ANGLE JACK, 50OHM
+F https://www.amphenolrf.com/downloads/dl/file/id/2712/product/3102/901_143_6rfx_customer_drawing.pdf
+$ENDCMP
+#
+$CMP ABM8AIG-25.000MHZ-12-2Z-T3
+D Crystals 25MHz AECQ200 12pF 20ppm -40C +125C
+F https://abracon.com/AIGcrystals/ABM8AIG.pdf
+$ENDCMP
+#
+$CMP ADT2-1T+
+D Xfmr, Isolation, 50 ohm, 2: 1, 0.4-450 MHz, SMT
+F https://componentsearchengine.com/Datasheets/1/ADT2-1T+.pdf
+$ENDCMP
+#
+$CMP AP2331W-7
+D DiodesZetex AP2331W-7 Load Switch IC, Load Switch, 0.2A, 2.7  5.2V, 3-Pin, SC-59
+F https://componentsearchengine.com/Datasheets/1/AP2331W-7.pdf
+$ENDCMP
+#
+$CMP AP7115-25SEG-7
+D DiodesZetex AP7115-25SEG-7, LDO Voltage Regulator, 150mA, 2.5 V +/-2%, 2.5  5.5 Vin, 5-Pin SOT-353
+F https://componentsearchengine.com/Datasheets/1/AP7115-25SEG-7.pdf
+$ENDCMP
+#
+$CMP ASP-134486-01
+D SAMTEC - ASP-134486-01 - CONN, VITA 57 FMC, RCPT, 400POS, 10ROW
+F https://componentsearchengine.com/Datasheets/2/ASP-134486-01.pdf
+$ENDCMP
+#
+$CMP AT24C04C-SSHM-T
+D EEPROM 4K (512x8) 2-WIRE NiPdAu, 1.7V
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C04C-SSHM-T_C6205.pdf
+$ENDCMP
+#
+$CMP ATTINY25-20SU
+D ATTINY25-20SU, 8 bit AVR Microcontroller 20MHz 2, 128kB, B Flash, 128B RAM, I2C SPI 8-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/ATTINY25-20SU.pdf
+$ENDCMP
+#
+$CMP CSD17313Q2T
+D 30V, N ch NexFET MOSFET, single SON2x2, 32mOhm
+F http://www.ti.com/lit/gpn/CSD17313Q2
+$ENDCMP
+#
+$CMP CSTNE12M0G550000R0
+D Resonators 12.0000MHz 33pF SMD CHP Resntr
+F https://www.murata.com/en-eu/products/productdata/8801162067998/SPEC-CSTNE12M0G550000R0.pdf?1559743212000
+$ENDCMP
+#
+$CMP CY7C68013A-56LTXC
+D Cypress Semiconductor CY7C68013A-56LTXC, USB Controller, 480MBps, USB 2.0, 3.3 V, 56-Pin QFN
+F http://www.arrow.com/en/products/cy7c68013a-56ltxc/cypress-semiconductor
+$ENDCMP
+#
+$CMP DMG1012T-7
+D MOSFET N-Channel 20V 0.63A SOT523 Diodes Inc DMG1012T-7 N-channel MOSFET Transistor, 0.63 A, 20 V, 3-Pin SOT-523
+F https://componentsearchengine.com/Datasheets/1/DMG1012T-7.pdf
+$ENDCMP
+#
+$CMP EG2207
+D E-SWITCH - EG2207 - SWITCH, SLIDE, DPDT, 200mA, 30V, PCB
+F https://www.e-switch.com/system/asset/product_line/data_sheet/119/EG.pdf
+$ENDCMP
+#
+$CMP EM2130H01QI
+D Switching Voltage Regulators 30A PowerSoC Featuring Digital Control w/PMBus V1.2 compliant Bus (1.35V - 3.3V Vout Range)
+F https://componentsearchengine.com/Datasheets/1/EM2130H01QI.pdf
+$ENDCMP
+#
+$CMP EN6337QI
+D Non-Isolated PoL Module DC DC Converter 1 Output 0.6 ~ 6.285V    3A 2.5V - 6.6V Input
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/en6337qi_05800.pdf
+$ENDCMP
+#
+$CMP EP5348UI
+D Conv DC-DC 2.5V to 5.5V Step Down Single-Out 0.6V 0.4A 14-Pin UQFN T/R
+F https://www.intel.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/ep5348ui_05721.pdf
+$ENDCMP
+#
+$CMP ER2120QI
+D Switching Voltage Regulators 2A Step-Down DC-DC w/ Int MOSFETs
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/er2120qi_09615.pdf
+$ENDCMP
+#
+$CMP ER3105DI
+D Switching Voltage Regulators 500mA Step-Down w/ Int MOSFETs
+F https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/er3105di_09616.pdf
+$ENDCMP
+#
+$CMP ESD5384NCTBG
+F https://componentsearchengine.com/Datasheets/1/ESD5384NCTBG.pdf
+$ENDCMP
+#
+$CMP EV1320QI
+D EV1320QI 2A PowerSoC Source/Sink DDR Memory Termination Converte
+F http://www.mouser.cn/datasheet/2/612/EV1320QI_06831-1098973.pdf
+$ENDCMP
+#
+$CMP FDMC8878
+D MOSFET N-Channel 30V 9.6A Power 33 Fairchild FDMC8878 N-channel MOSFET Transistor, 9.6 A, 30 V, 8-Pin Power 33
+F https://www.fairchildsemi.com/datasheets/FD/FDMC8878.pdf
+$ENDCMP
+#
+$CMP FXMA2102UMX
+D Fairchild Semiconductor FXMA2102UMX, Voltage Level Translator, 3-State, 1.65  5.5 V, 8-Pin UMLP
+F https://www.onsemi.com/pub/Collateral/FXMA2102-D.PDF
+$ENDCMP
+#
+$CMP G5NB-1A-E-DC5
+D General Purpose Relays SPST-NO Flux-Tight 5VDC High-Capacity
+F https://componentsearchengine.com/Datasheets/1/G5NB-1A-E-DC5.pdf
+$ENDCMP
+#
+$CMP HD3SS3220IRNHR
+D 10Gbps USB 3.1 Type-C 2:1 Mux with DRP Controller
+F http://www.ti.com/lit/gpn/hd3ss3220
+$ENDCMP
+#
+$CMP HFJ11-1G02ERL
+D Modular Connectors / Ethernet Connectors GIGABIT 1x1 Tab Down RJ45 w/mag No LED
+F https://www.arrow.com/en/products/hfj11-1g02erl/halo-electronics
+$ENDCMP
+#
+$CMP ISL54059IRTZ-T
+D Switches/MUXs/Crosspoints Negative Signal Swing, Sub-ohm, Dual SPDT Single Supply Switch
+F https://componentsearchengine.com/Datasheets/1/ISL54059IRTZ-T.pdf
+$ENDCMP
+#
+$CMP ISL80101IRAJZ-T
+D Linear Regulators High Performance 1A LDO
+F https://componentsearchengine.com/Datasheets/1/ISL80101IRAJZ-T.pdf
+$ENDCMP
+#
+$CMP ISL85410FRZ-T7A
+D Integrated FET Regulators Wide VIN 1A Synchronous Buck Regulator
+F https://www.renesas.com/en-us/www/doc/datasheet/isl85410.pdf
+$ENDCMP
+#
+$CMP L7805ACD2T-TR
+D Voltage Regulator 5V 1A D2PAK STMicroelectronics L78xx L7805ACD2T-TR, Single Linear Voltage Regulator, 1.5A 5 V, +/-2%, 3-Pin D2PAK
+F https://componentsearchengine.com/Datasheets/1/L7805ACD2T-TR.pdf
+$ENDCMP
+#
+$CMP LM1117IMPX-5.0_NOPB
+D Space saving 800-mA low-dropout linear regulator with internal current limit
+F http://www.ti.com/lit/gpn/lm1117
+$ENDCMP
+#
+$CMP LMR50410YQDBVRQ1
+D Switching Voltage Regulators Automotive qualified SIMPLE SWITCHER 4-V to 36-V, 1-A synchronous step-down converter 6-SOT-23 -40 to 150
+F https://www.ti.com/lit/ds/symlink/lmr50410-q1.pdf?ts=1599768400389&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DLMR50410YQDBVRQ1
+$ENDCMP
+#
+$CMP LP5036RJVR
+D 36-Channel I2C constant current RGB LED driver
+F http://www.ti.com/lit/ds/symlink/lp5030.pdf
+$ENDCMP
+#
+$CMP MAX14591ETA+T
+D MAXIM INTEGRATED PRODUCTS - MAX14591ETA+T - LEVEL TRANSLATOR, 2-CH, TDFN-8
+F https://datasheets.maximintegrated.com/en/ds/MAX14591.pdf
+$ENDCMP
+#
+$CMP MAX811SEUS+T
+D MAXIM INTEGRATED PRODUCTS - MAX811SEUS+T. - SUPERVISORY CCT, SMD, SOT1434, 811
+F https://datasheets.maximintegrated.com/en/ds/MAX811-MAX812.pdf
+$ENDCMP
+#
+$CMP MCP23008T-E_ML
+D MICROCHIP - MCP23008T-E/ML - I/O EXPANDER, 8BIT, 1.7MHZ, QFN-20
+F https://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf
+$ENDCMP
+#
+$CMP MECT-110-01-M-D-RA1-TR
+D Standard Card Edge Connectors 0.8mm [.031"] RIGHT ANGLE EDGE CARD ASSEMBLY
+F http://suddendocs.samtec.com/prints/mect-1xx-xx-xx-d-rax-xx-mkt.pdf
+$ENDCMP
+#
+$CMP MT25QU01GBBB8E12-0SIT_TR
+D NOR Flash SPI FLASH NOR SLC 256MX4 TBGA DDP
+F https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-b/mt25q_qlkt_u_01g_bbb_0.pdf
+$ENDCMP
+#
+$CMP MT28EW512ABA1HPC-0SIT
+D NOR Flash Parallel 3V/3.3V 512M-bit 64M x 8/32M x 16 100ns 64-Pin LBGA T/R/Tray
+F https://componentsearchengine.com/Datasheets/1/MT28EW512ABA1HPC-0SIT.pdf
+$ENDCMP
+#
+$CMP NCP135BMT040TBG
+D 500 MA, VERY LOW DROPOUT
+F http://www.onsemi.com/pub/Collateral/NCP135-D.PDF
+$ENDCMP
+#
+$CMP NE555D
+D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NE555P
+D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 4.5  16 V, 8-Pin PDIP
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP OPA857IRGTT
+D Ultralow-Noise, Wideband, Pseudo-Differential Output Transimpedance Amplifier
+$ENDCMP
+#
+$CMP PAM2306AYPKE
+D DUAL PWM ST-DOWN DC-DC CONVerter DiodesZetex PAM2306AYPKE, Dual Step Down DC-DC Converter, 1A, Maximum of 3.3 V, 12-Pin WDFN
+F https://componentsearchengine.com/Datasheets/1/PAM2306AYPKE.pdf
+$ENDCMP
+#
+$CMP PAM8403DR
+D Class-D Stereo Audio Amp 5V 2x3W SOP16 DiodesZetex PAM8403DR Audio Amplifier, Class-D Stereo, 16-Pin SOP
+F https://componentsearchengine.com/Datasheets/1/PAM8403DR.pdf
+$ENDCMP
+#
+$CMP PC817X3NIP1B
+D Transistor Output Optocouplers OPTOISOLATOR 5KV TRANS SMD, Optoisolator Transistor Output 1 Channel
+F https://componentsearchengine.com/Datasheets/1/PC817X3NIP1B.pdf
+$ENDCMP
+#
+$CMP PESD0402-140
+D LITTELFUSE - PESD0402-140 - ESD SUPPRESSOR, 0402, 14V, 0.25PF
+F https://www.littelfuse.com/~/media/electronics/product_specifications/polymer_esd_suppressors/littelfuse_polymer_esd_suppressor_pesd0402_140_product_specification.pdf.pdf
+$ENDCMP
+#
+$CMP RC0201FR-0710KL
+D Thick Film Resistors - SMD 10K OHM 1%
+F https://componentsearchengine.com/Datasheets/1/RC0201FR-0710KL.pdf
+$ENDCMP
+#
+$CMP SG-210STF_33.3333ML
+D Oscillator XO 33.3333MHz +/-50ppm 15pF CMOS 55% 1.8V/2.5V/3.3V Medical 4-Pin SMD
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF&lang=en
+$ENDCMP
+#
+$CMP SI5340A-D-GMR
+D Low-Jitter, 10 or 4-Output, Any-Frequency, Any-Output Clock Generator
+F https://www.silabs.com/documents/public/data-sheets/Si5341-40-D-DataSheet.pdf
+$ENDCMP
+#
+$CMP SMA-J-P-H-ST-MT1
+D Samtec Straight 50 Surface Mount, Through Hole SMA Jack, Solder Termination Coaxial
+F http://suddendocs.samtec.com/prints/sma-j-p-x-st-mt1-mkt.pdf
+$ENDCMP
+#
+$CMP SMF05C.TCT
+D Semtech SMF05C.TCT, Quint-Element Uni-Directional TVS Diode, 100W, 6-Pin SOT-363 (SC-70)
+F https://www.mouser.co.uk/datasheet/2/761/smf05c-1278099.pdf
+$ENDCMP
+#
+$CMP SN74AUP1T34QDCKRQ1
+D 1-Bit Unidirectional Voltage-Level Translator, SN74AUP1T34-Q1
+F http://www.ti.com/lit/gpn/sn74aup1t34-q1
+$ENDCMP
+#
+$CMP SN74AUP2G17DCKR
+D LOW-POWER DUAL SCHMITT-TRIGGER BUFFER
+F http://www.ti.com/lit/gpn/sn74aup2g17
+$ENDCMP
+#
+$CMP Si53307-B-GM
+D Si53307-B-GM,
+F https://www.silabs.com/documents/public/data-sheets/si5330x-datasheet.pdf
+$ENDCMP
+#
+$CMP T520B337M2R5ATE015
+D Polymer Electrolytic Capacitors
+$ENDCMP
+#
+$CMP TB6560AHQ,8
+D Motor / Motion / Ignition Controllers & Drivers Stepping Motor Driver IC
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=11252&prodName=TB6560AHQ
+$ENDCMP
+#
+$CMP TBD62083APG
+D 8 channel sink type DMOS transistor array
+F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
+$ENDCMP
+#
+$CMP TCA9534PWR
+D Remote 8-Bit I2C Low-Power I/O Expander With Interrupt Output and Configuration Registers
+F http://www.ti.com/lit/ds/symlink/tca9534.pdf
+$ENDCMP
+#
+$CMP TCJD107M020R0055
+D AVX Electrolytic Capacitor 100F 20V dc Polymer Solid +/-20% Tolerance TCJ Series
+F https://componentsearchengine.com/Datasheets/1/TCJD107M020R0055.pdf
+$ENDCMP
+#
+$CMP TDA02H0SB1R
+D DIP Switches / SIP Switches HALF PITCH 2 POS
+F https://www.ckswitches.com/media/1328/tda.pdf
+$ENDCMP
+#
+$CMP TFP09-2-12B
+D Micro SD Card Connector
+F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
+$ENDCMP
+#
+$CMP THS4541IRGTT
+D Texas Instruments THS4541IRGTT, Differential Amplifier 850MHz Rail to Rail Output 16-Pin QFN
+F http://www.ti.com/lit/ds/symlink/ths4541.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30DRTR
+D Texas Instruments TPD2EUSB30DRTR Dual Bi-Directional TVS Diode Array, 45W peak, 3-Pin SOT
+$ENDCMP
+#
+$CMP TPD4E05U06DQAR
+D 4-Channel Ultra-Low-Capacitance IEC ESD Protection Diode
+F http://www.ti.com/lit/gpn/tpd4e05u06
+$ENDCMP
+#
+$CMP TPS3700DDCR2
+D TPS3700 18V Window Supervisor with Internal Ref for Overvoltage and Undervoltage Detection
+F http://www.ti.com/lit/gpn/tps3700
+$ENDCMP
+#
+$CMP TUSB1002RGER
+D USB3.1 10Gbps Dual Channel Linear Redriver
+F http://www.ti.com/lit/ds/symlink/tusb1002.pdf
+$ENDCMP
+#
+$CMP TXB0108PWR
+D 8-Bit Bidirectional Voltage-Level Shifter with Auto Direction Sensing and +/-15-kV ESD Protect
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
+$CMP TXS0102DCUR
+D 2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application
+$ENDCMP
+#
+$CMP USB3320C-EZK-TR
+D Highly Integrated Full Featured Hi-Speed USB 2.0 ULPI%D Transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001792B.pdf
+$ENDCMP
+#
+$CMP VR05S05
+D Non-Isolated DC/DC Converters DC-DC Switching regulater, 0.5A, SIP
+$ENDCMP
+#
+$CMP W5500
+D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
+F https://componentsearchengine.com/Datasheets/1/W5500.pdf
+$ENDCMP
+#
+$CMP XG4A-2034
+D Headers & Wire Housings Plug Long Lock 20P RightAngle 1Polarize
+F https://componentsearchengine.com/Datasheets/1/XG4A-2034.pdf
+$ENDCMP
+#
+$CMP XG4C-3034
+D Headers & Wire Housings MIL BoxType Plug 30P RightAngle 1Polarize
+F https://componentsearchengine.com/Datasheets/1/XG4C-3034.pdf
+$ENDCMP
+#
+$CMP XG4C-4034
+D Headers & Wire Housings MIL BoxType Plug 40P RightAngle 1Polarize
+F https://componentsearchengine.com/Datasheets/1/XG4C-4034.pdf
+$ENDCMP
+#
+$CMP SI5332A-D-GM2
+D 6/8/12-Output Any-Frequency Clock Generator
+K
+F 
+$ENDCMP
+#
+$CMP HR861153C
+D Single Port RJ45 Connector with Magnetics Module and LED.
+K
+F https://cdn.hackaday.io/files/853893653282976/HR861153C%20.pdf
+$ENDCMP
+#
+$CMP LAN8720AI-CP-TR-ABC
+D Ethernet ICs Small Footprint RMII 10/100 Ethernet
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en586588
+$ENDCMP
+#
+$CMP SI3404-A-GM
+D Hot Swap Voltage Controllers PoE PD interface with compact footprint
+K
+F https://www.silabs.com/documents/public/data-sheets/si3404-datasheet.pdf
+$ENDCMP
+#
+$CMP SY8089AAAC
+D DC-DC Converters Step-Down Adjustable 1 2.7V 5.5V 0.6V 5.5V 2A SOT-23-5 RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8089AAAC_C78988.pdf
+$ENDCMP
+#
+$CMP WPM2015-3_TR
+D MOSFET P Trench 20V 2.2A 810mV @ 250uA 110 m @ 2.7A,4.5V SOT-23(SOT-23-3) RoHS
+K
+F https://lcsc.com/product-detail/MOSFET_Will-Semicon-WPM2015-3-TR_C213159.html
+$ENDCMP
+#
+$CMP 045138008100858+
+D Memory Card Connectors MICRO SD CARD 5138 SERIES
+K
+F https://www.mouser.sg/datasheet/2/909/5138-1359342.pdf
+$ENDCMP
+#
+$CMP MPL2016S2R2MHT
+D Multilayer Chip Power Inductor  MPL Series
+K
+F https://www.datasheets360.com/pdf/9086872555025871166
+$ENDCMP
+#
+$CMP VO618A-3X017T
+D Optocoupler Transistor 100-200% 5kV SMD4 Vishay VO618A-3X017T DC Input Phototransistor Output Optocoupler, Surface Mount, 4-Pin SMD
+K
+F https://www.vishay.com/docs/83432/vo618a.pdf
+$ENDCMP
+#
+$CMP TLV431AIDBZRG4
+D Voltage References Lo Vtg Adj Precision Shunt Regulator
+K
+F http://www.ti.com/lit/ds/symlink/tlv431a.pdf
+$ENDCMP
+#
+$CMP 4816P-1-101LF
+D Resistor Networks & Arrays 100 OHM 2% 16Pin SMT
+K
+F https://componentsearchengine.com/Datasheets/2/4816P-1-101LF.pdf
+$ENDCMP
+#
+#End Doc Library

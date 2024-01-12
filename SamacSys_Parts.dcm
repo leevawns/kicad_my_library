@@ -1,137 +1,123 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 61400416021
-D WR-COM USB Connector A horizontal Wurth Elektronik WR-COM Series, Right Angle Type A USB Connector Socket, 30 V ac, 1.5A
-F https://componentsearchengine.com/Datasheets/1/61400416021.pdf
-$ENDCMP
-#
-$CMP 7447709330
-D SMD-Shielded Power Inductors WE-PD
-F https://componentsearchengine.com/Datasheets/1/7447709330.pdf
-$ENDCMP
-#
-$CMP ADT2-1T+
-D Xfmr, Isolation, 50 ohm, 2: 1, 0.4-450 MHz, SMT
-F https://componentsearchengine.com/Datasheets/1/ADT2-1T+.pdf
-$ENDCMP
-#
-$CMP AP2331W-7
-D DiodesZetex AP2331W-7 Load Switch IC, Load Switch, 0.2A, 2.7  5.2V, 3-Pin, SC-59
-F https://componentsearchengine.com/Datasheets/1/AP2331W-7.pdf
-$ENDCMP
-#
-$CMP AP7115-25SEG-7
-D DiodesZetex AP7115-25SEG-7, LDO Voltage Regulator, 150mA, 2.5 V +/-2%, 2.5  5.5 Vin, 5-Pin SOT-353
-F https://componentsearchengine.com/Datasheets/1/AP7115-25SEG-7.pdf
-$ENDCMP
-#
-$CMP ATTINY25-20SU
-D ATTINY25-20SU, 8 bit AVR Microcontroller 20MHz 2, 128kB, B Flash, 128B RAM, I2C SPI 8-Pin SOIC
-F https://componentsearchengine.com/Datasheets/1/ATTINY25-20SU.pdf
-$ENDCMP
-#
-$CMP CSTNE12M0G550000R0
-D Resonators 12.0000MHz 33pF SMD CHP Resntr
-F https://www.murata.com/en-eu/products/productdata/8801162067998/SPEC-CSTNE12M0G550000R0.pdf?1559743212000
-$ENDCMP
-#
-$CMP DMG1012T-7
-D MOSFET N-Channel 20V 0.63A SOT523 Diodes Inc DMG1012T-7 N-channel MOSFET Transistor, 0.63 A, 20 V, 3-Pin SOT-523
-F https://componentsearchengine.com/Datasheets/1/DMG1012T-7.pdf
-$ENDCMP
-#
-$CMP ESD5384NCTBG
-F https://componentsearchengine.com/Datasheets/1/ESD5384NCTBG.pdf
-$ENDCMP
-#
-$CMP G5NB-1A-E-DC5
-D General Purpose Relays SPST-NO Flux-Tight 5VDC High-Capacity
-F https://componentsearchengine.com/Datasheets/1/G5NB-1A-E-DC5.pdf
-$ENDCMP
-#
-$CMP L7805ACD2T-TR
-D Voltage Regulator 5V 1A D2PAK STMicroelectronics L78xx L7805ACD2T-TR, Single Linear Voltage Regulator, 1.5A 5 V, +/-2%, 3-Pin D2PAK
-F https://componentsearchengine.com/Datasheets/1/L7805ACD2T-TR.pdf
-$ENDCMP
-#
-$CMP LM1117IMPX-5.0_NOPB
-D Space saving 800-mA low-dropout linear regulator with internal current limit
-F http://www.ti.com/lit/gpn/lm1117
-$ENDCMP
-#
-$CMP MCP23008T-E_ML
-D MICROCHIP - MCP23008T-E/ML - I/O EXPANDER, 8BIT, 1.7MHZ, QFN-20
-F https://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf
-$ENDCMP
-#
-$CMP NE555D
-D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
-$ENDCMP
-#
-$CMP NE555P
-D Precision timer,NE555P 0.5MHz DIL8 Texas Instruments NE555P, Precision Timer, 4.5  16 V, 8-Pin PDIP
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
-$ENDCMP
-#
-$CMP OPA857IRGTT
-D Ultralow-Noise, Wideband, Pseudo-Differential Output Transimpedance Amplifier
-$ENDCMP
-#
-$CMP PAM2306AYPKE
-D DUAL PWM ST-DOWN DC-DC CONVerter DiodesZetex PAM2306AYPKE, Dual Step Down DC-DC Converter, 1A, Maximum of 3.3 V, 12-Pin WDFN
-F https://componentsearchengine.com/Datasheets/1/PAM2306AYPKE.pdf
-$ENDCMP
-#
-$CMP PAM8403DR
-D Class-D Stereo Audio Amp 5V 2x3W SOP16 DiodesZetex PAM8403DR Audio Amplifier, Class-D Stereo, 16-Pin SOP
-F https://componentsearchengine.com/Datasheets/1/PAM8403DR.pdf
-$ENDCMP
-#
-$CMP PC817X3NIP1B
-D Transistor Output Optocouplers OPTOISOLATOR 5KV TRANS SMD, Optoisolator Transistor Output 1 Channel
-F https://componentsearchengine.com/Datasheets/1/PC817X3NIP1B.pdf
-$ENDCMP
-#
-$CMP RC0201FR-0710KL
-D Thick Film Resistors - SMD 10K OHM 1%
-F https://componentsearchengine.com/Datasheets/1/RC0201FR-0710KL.pdf
-$ENDCMP
-#
-$CMP TBD62083APG
-D 8 channel sink type DMOS transistor array
-F https://componentsearchengine.com/Datasheets/1/TBD62083APG.pdf
-$ENDCMP
-#
-$CMP TFP09-2-12B
-D Micro SD Card Connector
-F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
-$ENDCMP
-#
-$CMP THS4541IRGTT
-D Texas Instruments THS4541IRGTT, Differential Amplifier 850MHz Rail to Rail Output 16-Pin QFN
-F http://www.ti.com/lit/ds/symlink/ths4541.pdf
-$ENDCMP
-#
-$CMP W5500
-D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
-F https://componentsearchengine.com/Datasheets/1/W5500.pdf
-$ENDCMP
-#
-$CMP XG4A-2034
-D Headers & Wire Housings Plug Long Lock 20P RightAngle 1Polarize
-F https://componentsearchengine.com/Datasheets/1/XG4A-2034.pdf
-$ENDCMP
-#
-$CMP XG4C-4034
-D Headers & Wire Housings MIL BoxType Plug 40P RightAngle 1Polarize
-F https://componentsearchengine.com/Datasheets/1/XG4C-4034.pdf
-$ENDCMP
-#
-$CMP XG4C-3034
-D Headers & Wire Housings MIL BoxType Plug 30P RightAngle 1Polarize
+$CMP NE555DR
+D Single Precision Timer
 K
-F https://componentsearchengine.com/Datasheets/1/XG4C-3034.pdf
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TS3A226AEYFFR
+D Autonomous Audio Headset Switch with Reduced GND Switch RON and FM Capability
+K
+F https://www.ti.com/lit/ds/symlink/ts3a226ae.pdf?ts=1606903224847&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTS3A226AEYFFR%2526keyMatch%253DTS3A226AEYFFR%2526tisearch%253DSearch-EN-everything%2526usecase
+$ENDCMP
+#
+$CMP TPS2065DBVR
+D Single 1A Current-Limited, Power-Distribution Switches for USB Applications
+K
+F http://www.ti.com/lit/gpn/TPS2065
+$ENDCMP
+#
+$CMP 744232090
+D Common Mode Line Filter CNSW 1206 90Ohm Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, ??25% 370mA Idc
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c4bd373adc4470b1464be5d10e6e206e.pdf
+$ENDCMP
+#
+$CMP SJ-43515TS-SMT-TR
+D Phone Connectors Audio Jacks
+K
+F https://componentsearchengine.com/Datasheets/1/SJ-43515TS-SMT-TR.pdf
+$ENDCMP
+#
+$CMP FT2232HL-REEL
+D FTDI Chip FT2232HL-REEL, USB Controller, 4-channel, 480MBps, USB 2.0, 64-Pin LQFP
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+$ENDCMP
+#
+$CMP 93AA56BT-I_OT
+D 2K, 128 X 16 SERIAL EEPROM, 1.8V,  IND
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21794G.pdf
+$ENDCMP
+#
+$CMP TPD4S012DRYR
+D ESD Suppressors / TVS Diodes 4Ch USB ESD Solution w/ Pwr Clamp
+K
+F https://www.ti.com/lit/gpn/TPD4S012
+$ENDCMP
+#
+$CMP TPS65400RGZT
+D 4.5 V to 18 V input, 4 A / 4 A / 2 A / 2 A synchronous quad converter with PMBus/I2C interface
+K
+F http://www.ti.com/lit/ds/symlink/tps65400.pdf
+$ENDCMP
+#
+$CMP TLV62130RGTT
+D Texas Instruments, TLV62130RGTT DC-DC Converter 3A Adjustable, 0.9  5 V, 16-Pin QFN
+K
+F http://www.ti.com/lit/gpn/tlv62130
+$ENDCMP
+#
+$CMP DSC1121AI5-050.0000
+D Standard Clock Oscillators MEMS Oscillator, High Perf, Single CMOS Output, -40C-85C, 10ppm
+K
+F https://ww1.microchip.com/downloads/en/DeviceDoc/DSC1101-21-Low-Jitter-Precision-CMOS-Oscillator-DS20005613D.pdf
+$ENDCMP
+#
+$CMP NC7WZ07P6X
+D ON Semiconductor NC7WZ07P6X Dual Buffer
+K
+F https://www.onsemi.com/pub/Collateral/NC7WZ07-D.pdf
+$ENDCMP
+#
+$CMP 2250015-3
+D Modular Connectors / Ethernet Connectors CONN RJ45
+K
+F https://componentsearchengine.com/Datasheets/1/2250015-3.pdf
+$ENDCMP
+#
+$CMP STM32F042G6U6
+D STMICROELECTRONICS - STM32F042G6U6 - MCU, 32BIT, CORTEX-M0, 48MHZ, UFQFN-28
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/52/ad/d0/80/e6/be/40/ad/DM00105814.pdf/files/DM00105814.pdf/jcr:content/translations/en.DM00105814.pdf
+$ENDCMP
+#
+$CMP AP3428WT-7
+D Switching Voltage Regulators DCDC Conv LV Buck TSOT25 T&R 3K
+K
+F https://www.mouser.co.uk/datasheet/2/115/DIOD_S_A0012884518_1-2512899.pdf
+$ENDCMP
+#
+$CMP BMI088
+D Inertial Measurement Unit Digital Output 2.5V/3.3V Automotive
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/994c3bf88e91a9e9fead6a819d348e4d.pdf
+$ENDCMP
+#
+$CMP 3362P-1-203LF
+D Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 20k +/-10% 0.5W +/-100ppm/C Top Adjust
+K
+F https://www.bourns.com/docs/Product-Datasheets/3362.pdf
+$ENDCMP
+#
+$CMP PTS647SM70SMTR2LFS
+D Tactile Switches 50mA 12VDC, 1.8N 7.0mm H, G leads
+K
+F https://www.ckswitches.com/media/2567/pts647.pdf
+$ENDCMP
+#
+$CMP MP1482DS-LF-Z
+D Switching Voltage Regulators 2A, 18V Sync Step-Down DCDC
+K
+F https://componentsearchengine.com/Datasheets/1/MP1482DS-LF-Z.pdf
+$ENDCMP
+#
+$CMP MP1584EN-LF-Z
+D Switching Voltage Regulators 3A 1.5MHz 28V Nonsync Buck
+K
+F https://componentsearchengine.com/Datasheets/1/MP1584EN-LF-Z.pdf
 $ENDCMP
 #
 #End Doc Library

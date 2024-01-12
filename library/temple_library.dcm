@@ -71,10 +71,28 @@ K R
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
+$CMP TestPoint
+D test point
+K test point tp
+F ~
+$ENDCMP
+#
 $CMP VARISTOR_TEMPLE
 D CAP CER 1UF 16V X5R 1206
 K 1206YD105KAT2A
 F http://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+$CMP ZENER
+D TVS DIODE 6V 20.5V SOD523
+K ESD5Z6.0T1G
+F https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf
+$ENDCMP
+#
+$CMP crytal_temple
+D CRYSTAL 16.0000MHZ 22PF TH
+K LFXTAL027945BULK
+F https://www.iqdfrequencyproducts.com/products/pn/LFXTAL027945Bulk.pdf
 $ENDCMP
 #
 #End Doc Library
