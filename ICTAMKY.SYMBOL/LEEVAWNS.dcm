@@ -1,0 +1,116 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 88E1111-B2-NDC2C000
+D 88E1111-B2-NDC2C000
+F http://www.marvell.com//transceivers/assets/Marvell-Alaska-Ultra-88E1111-GbE.pdf
+$ENDCMP
+#
+$CMP 901-143-6RFX
+D AMPHENOL RF - 901-143-6RFX - RF COAXIAL, SMA, RIGHT ANGLE JACK, 50OHM
+F https://www.amphenolrf.com/downloads/dl/file/id/2712/product/3102/901_143_6rfx_customer_drawing.pdf
+$ENDCMP
+#
+$CMP ASP-134486-01
+D CONN ARRAY RCPT 400POS SMD GOLD
+K ASP-134486-01
+F https://www.digikey.com/en/products/detail/samtec-inc/ASP-134486-01/9695289
+$ENDCMP
+#
+$CMP AT24C04C-XHM-T
+D IC EEPROM 4K I2C 1MHZ 8TSSOP
+K AT24C04C-XHM-T
+F https://www.mouser.vn/datasheet/2/268/Atmel-8787-SEEPROM-AT24C04C-08C-Datasheet-1398080.pdf
+$ENDCMP
+#
+$CMP BLM21AG601SN1D
+D FERRITE BEAD 600 OHM 0805 1LN
+K BLM21AG601SN1D
+F https://www.mouser.vn/datasheet/2/281/ENFA0005-1485072.pdf
+$ENDCMP
+#
+$CMP BSN20-7
+D MOSFET N-CH 50V 500MA SOT23
+K BSN20-7
+F https://www.mouser.vn/datasheet/2/115/ds31898-57323.pdf
+$ENDCMP
+#
+$CMP BSS84-7-F
+D MOSFET P-CH 50V 130MA SOT23-3
+K BSS84-7-F
+F https://www.diodes.com/assets/Datasheets/ds30149.pdf
+$ENDCMP
+#
+$CMP D1213A-01WS-7
+D TVS DIODE 3.3V 10V SOD323
+K D1213A-01WS-7
+F https://www.mouser.vn/datasheet/2/115/D1213A-01WS-218853.pdf
+$ENDCMP
+#
+$CMP GCM155R71C104KA55D
+D CAP CER 0.1UF 16V X7R 0402
+K GCM155R71C104KA55D
+F https://www.mouser.vn/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf
+$ENDCMP
+#
+$CMP GCM155R71H103KA55D
+D CAP CER 10000PF 50V X7R 0402
+K GCM155R71H103KA55D
+F https://www.mouser.vn/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf
+$ENDCMP
+#
+$CMP MAX14591ETA+T
+D IC TRNSLTR BIDIRECTIONAL 8TDFN
+K MAX14591ETA+T
+F https://datasheets.maximintegrated.com/en/ds/MAX14591.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07100KL
+D RES SMD 100K OHM 1% 1/16W 0402
+K RC0402FR-07100KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP SI5332A-D-GM2
+D 6/8/12-Output Any-Frequency Clock Generator
+$ENDCMP
+#
+$CMP SN65MLVD200
+D IC TRANSCEIVER HALF  1/1
+K SN65MLVD200
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65mlvd200
+$ENDCMP
+#
+$CMP SN74AUP1T34QDCKRQ1
+D IC MCU 8BIT 16KB FLASH 32TQFP
+K SN74AUP1T34QDCKRQ1
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74aup1t34-q1
+$ENDCMP
+#
+$CMP Si5332AD08493-GM2
+D 6/8/12-Output Any-Frequency Clock Generator
+$ENDCMP
+#
+$CMP TFP09-2-12B
+D Micro SD Card Connector
+F http://images.100y.com.tw/pdf_file/10-TFP09-2-12B.pdf
+$ENDCMP
+#
+$CMP TLV117112DCYR
+D IC REG LINEAR 1.2V 1A SOT223-4
+K TLV117112DCYR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv1171
+$ENDCMP
+#
+$CMP TestPoint
+D test point
+K test point tp
+F ~
+$ENDCMP
+#
+$CMP VR05S05
+D DC DC CONVERTER 5V
+K VR05S05
+F https://media.digikey.com/pdf/Data%20Sheets/XP%20Power%20PDFs/DS_VR05.pdf
+$ENDCMP
+#
+#End Doc Library
