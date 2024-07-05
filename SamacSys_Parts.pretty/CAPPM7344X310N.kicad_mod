@@ -1,5 +1,5 @@
 (module "CAPPM7344X310N" (layer F.Cu)
-  (descr "2917_1")
+  (descr "CASE D")
   (tags "Capacitor Polarised")
   (attr smd)
   (fp_text reference C** (at 0 0) (layer F.SilkS)
@@ -24,7 +24,7 @@
   (fp_line (start -3.65 2.175) (end 3.65 2.175) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -3.1 0 0) (size 2.3 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.1 0 0) (size 2.3 2.5) (layers F.Cu F.Paste F.Mask))
-  (model "E:\\kicad_my_library\\SamacSys_Parts.3dshapes\\TCJD107M020R0055.stp"
+  (model "E:\\kicad_my_library\\SamacSys_Parts.3dshapes\\TAJD337K010RNJ.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

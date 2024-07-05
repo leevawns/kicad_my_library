@@ -1,0 +1,354 @@
+(footprint "R_0402_1005Metric"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 0402")
+	(tags "resistor SMD 0402")
+	(property "Reference" "REF**"
+		(at 3.45 -0.35 180)
+		(layer "F.SilkS")
+		(uuid "4ebc0f60-e91b-43e4-a6f2-7bf988909722")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "R_0R_0402"
+		(at 0 1.4 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5ccb6ac-4361-4c2c-9c08-f9ecf5b8a046")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "01568593-4c75-4822-a250-c54f29b3f72a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "236fee7a-c3ce-414b-846f-28700a70a23f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0d4e9834-0499-4cc0-83c6-6b097fdd0b35")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Author" "Antmicro"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "894148db-4c66-484f-8880-184c57e833af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Current" "1A"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb5e2c54-72cf-445a-9cab-b8d71e9dc4cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "License" "Apache-2.0"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cffe4595-1388-4032-afde-e34053f2433c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "ERJ2GE0R00X"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f0b59c3-7013-4eea-be3e-c9c29aa3d56f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Panasonic"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02ae5f8f-cbf4-4bdd-8c94-b40570387424")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Tolerance" ""
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f01013c6-3260-4802-a551-5143e2b98963")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Val" "0R"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3180b535-b7b2-4e94-b277-b3fbc19ba15b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 0.95 0.48)
+		(end -0.95 -0.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "47677570-57d3-492c-863c-ec4a8469b9a9")
+	)
+	(fp_rect
+		(start 0.5 0.25)
+		(end -0.5 -0.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "fb6cd544-ee3e-4f8c-a8ca-d59a990ec76c")
+	)
+	(fp_rect
+		(start 0.5 0.25)
+		(end -0.5 -0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "User.5")
+		(uuid "3bea25bd-2ddd-4f9f-a4ac-c5f69d39af35")
+	)
+	(fp_line
+		(start 0.498 0.248)
+		(end 0.248 0.248)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "671e1e6b-0f09-40c5-bd7c-2697a22a4579")
+	)
+	(fp_line
+		(start 0.498 -0.25)
+		(end 0.498 0.248)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "b36bda7a-f35a-4353-9080-7d94127ac13a")
+	)
+	(fp_line
+		(start 0.248 0.248)
+		(end 0.248 -0.25)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "2628c193-a542-4d01-ae9b-4a365ab3e273")
+	)
+	(fp_line
+		(start 0.248 -0.25)
+		(end 0.498 -0.25)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "3b42ee24-342e-414d-95ff-37a962bd0dae")
+	)
+	(fp_line
+		(start -0.25 0.23)
+		(end 0.248 0.23)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "b971cd74-0e0f-4a2b-bc42-97083d0a26eb")
+	)
+	(fp_line
+		(start -0.25 -0.232)
+		(end 0.248 -0.232)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "98a48c99-6a14-43da-a102-cd21c3d89e56")
+	)
+	(fp_line
+		(start -0.25 -0.25)
+		(end -0.25 0.248)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "9ca8089e-0874-4df9-b187-be82f5e30716")
+	)
+	(fp_line
+		(start -0.5 0.248)
+		(end -0.25 0.248)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "0c32ccdb-acfa-4144-bce8-41a5b8e952c0")
+	)
+	(fp_line
+		(start -0.5 -0.25)
+		(end -0.25 -0.25)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "67cf8737-c1e6-49c2-b8e8-202d42f2dfe5")
+	)
+	(fp_line
+		(start -0.5 -0.25)
+		(end -0.5 0.248)
+		(stroke
+			(width 0.02)
+			(type solid)
+		)
+		(layer "User.9")
+		(uuid "f544bd4b-5e38-4594-a54a-5a1cdc952c8d")
+	)
+	(fp_text user "License: Apache-2.0"
+		(at -0.95 5.169 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89b3eac4-f1a5-4202-81a6-4fb949a66ccb")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Author: Antmicro"
+		(at -0.95 4.169 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6c80100-714c-4d00-aeae-16e8f5dcabfc")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.95 3.168 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c8fec43e-660f-4fac-93d3-02891549fb4b")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.485 0 180)
+		(size 0.59 0.64)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "57b82d09-eb32-409c-97b4-080a854da8ed")
+	)
+	(pad "2" smd roundrect
+		(at 0.485 0 180)
+		(size 0.59 0.64)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "5c7e2eb3-4af6-46e1-9e2a-d8c1e38dc6b2")
+	)
+	(model "${ANT3DMDL}/R_0402_1005Metric.step"
+		(offset
+			(xyz 0 0 -0.01)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

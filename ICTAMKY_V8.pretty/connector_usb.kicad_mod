@@ -1,0 +1,163 @@
+(footprint "connector_usb"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
+	(tags "Through hole pin header THT 1x04 2.54mm single row")
+	(property "Reference" "REF**"
+		(at 0 -2.33 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "76be66d2-a176-48b3-acf1-c6a94d555412")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+		)
+	)
+	(property "Value" "Conn_01x04"
+		(at 0 9.95 180)
+		(layer "F.Fab")
+		(uuid "55e720ca-3bb3-4625-9a69-d3b2ef10ccb9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec50fd7d-2ec9-471d-ae6f-453d03108e1e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "164f4bd1-0498-4a46-84a8-1ff76b0507d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6c3b874e-2cc7-491e-ba00-10a523ee33f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_text user "GND"
+		(at -0.05 1.084 180)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "18ab7524-7b52-426e-900e-850e7b0add00")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "D+"
+		(at -0.016 3.624 180)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "1a294a76-21d2-4814-b38a-6aa0498174d4")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "VBUS"
+		(at -0.05 8.704 180)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "7713a280-b2de-412c-8fb2-887d1c211bb3")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "D-"
+		(at -0.05 6.164 180)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "9e4cb74d-7a40-4f70-ac99-aab6cc3fd1e1")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.127 3.81 -90)
+		(layer "F.Fab")
+		(uuid "91428796-5d78-4912-b81f-1f27e0c6e13f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.27 1.27)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1f7043e5-854c-466b-84ee-69855dd7f419")
+	)
+	(pad "2" thru_hole oval
+		(at 0 2.54)
+		(size 1.27 1.27)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5bc3f3a5-87f0-416c-8a30-d7519ad698b5")
+	)
+	(pad "3" thru_hole oval
+		(at 0 5.08)
+		(size 1.27 1.27)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "92f0dd50-5003-485e-af44-a93993367c66")
+	)
+	(pad "4" thru_hole oval
+		(at 0 7.62)
+		(size 1.27 1.27)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cc1306d2-b5b6-44b8-b019-f1d73a2150ef")
+	)
+)

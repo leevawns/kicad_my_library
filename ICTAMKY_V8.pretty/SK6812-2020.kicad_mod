@@ -1,0 +1,212 @@
+(footprint "SK6812-2020"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.889 0.762 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6230a298-5078-4d0a-aeef-302fff98e8ca")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "EC20-SK6812"
+		(at -0.254 -3.302 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "046c90aa-8d1b-43c3-92f7-fb1bdf69199f")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "90ff5fd6-a9c1-48b9-877b-ad7f60b60369")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0a944774-ab98-414a-a4c4-aa39d83e42fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f9894dd3-9816-44a1-8a13-1f38a1d7214f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "JLC_3DModel" "86b70f391f0e4b96803977280b627c85"
+		(at 0 0 -90)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "0b4f10eb-ba7f-44c6-8baa-c7fe3ff8e427")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "JLC_3D_Size" "2 1.849"
+		(at 0 0 -90)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "760a2945-4d86-497b-a5ca-341d341cdfe0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_line
+		(start 1.1933 1.0232)
+		(end -1.207 1.0232)
+		(stroke
+			(width 0.1501)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1a415ef4-cd16-4802-900f-7e660d216c37")
+	)
+	(fp_line
+		(start 1.1933 -1.0241)
+		(end 1.1933 1.0232)
+		(stroke
+			(width 0.1501)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6dc91db6-0842-4599-8fb5-02c5f080ed8d")
+	)
+	(fp_line
+		(start -1.207 1.0232)
+		(end -1.207 -1.0241)
+		(stroke
+			(width 0.1501)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "de9c036a-c781-4aaa-856e-021594ad616b")
+	)
+	(fp_line
+		(start -1.207 -1.0241)
+		(end 1.1933 -1.0241)
+		(stroke
+			(width 0.1501)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "813b42f6-48dc-4952-9584-0e336e4332fc")
+	)
+	(pad "1" smd rect
+		(at -0.9281 -0.54)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "c04573b0-157e-4831-b78c-24ad19ebe7ea")
+	)
+	(pad "2" smd rect
+		(at -0.9281 0.5601)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "1c9732c4-e294-4a61-bd6f-48465fb88f9a")
+	)
+	(pad "3" smd rect
+		(at 0.9022 0.5601 180)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "1ecd22da-5f51-479d-ab7d-8fcfc803e95f")
+	)
+	(pad "4" smd rect
+		(at 0.9022 -0.54 180)
+		(size 0.7 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "07d76cf9-a995-413a-b45a-e4c1e7f45b95")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.SilkS")
+		(uuid "3300c3c9-0b62-4a2d-9c0e-570eb323c964")
+		(hatch edge 0.5)
+		(priority 100)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0)
+		(filled_areas_thickness no)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 163.454 122.2461) (xy 163.454 121.7381) (xy 163.708 121.9921)
+			)
+		)
+		(filled_polygon
+			(layer "F.SilkS")
+			(island)
+			(pts
+				(xy 163.454 122.2461) (xy 163.454 121.7381) (xy 163.708 121.9921)
+			)
+		)
+	)
+	(model "${KIPRJMOD}/EASYEDA_MODELS/LED_SMD.3dshapes{slash}LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
+		(offset
+			(xyz 0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 540)
+		)
+	)
+)

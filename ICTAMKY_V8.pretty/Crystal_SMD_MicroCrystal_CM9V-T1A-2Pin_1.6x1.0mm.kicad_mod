@@ -1,0 +1,211 @@
+(footprint "Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SMD Crystal MicroCrystal CM9V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM9V-T1A.pdf, 1.6x1.0mm^2 package")
+	(tags "SMD SMT crystal")
+	(property "Reference" "REF**"
+		(at 1.75 0 90)
+		(layer "F.SilkS")
+		(uuid "c9a55c5d-e419-4c85-a365-02f98eecbec8")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+		)
+	)
+	(property "Value" "32768kHz"
+		(at 0 1.7 0)
+		(layer "F.Fab")
+		(uuid "b824b3fc-5801-4b0d-9203-bfa7b8d94424")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92d3ee21-b4a6-4ec9-8a40-79cc31feba39")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be44bede-7b71-4d0d-932e-555715aa3a31")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5045f8f6-5c09-4d0f-8936-bea90e38310f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.1 -0.7)
+		(end 0.1 -0.7)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b32558c4-2fc7-4db2-9273-198782fc3655")
+	)
+	(fp_line
+		(start -0.1 0.7)
+		(end 0.1 0.7)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d779ed1f-fc7a-4f43-9548-bf879e51b34f")
+	)
+	(fp_line
+		(start -1.2 -0.9)
+		(end -1.2 0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ece280aa-529e-4a05-a0f7-25a60c476a1d")
+	)
+	(fp_line
+		(start -1.2 0.9)
+		(end 1.2 0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8890fd12-8e50-45a1-bc30-0a256a7ee55b")
+	)
+	(fp_line
+		(start 1.2 -0.9)
+		(end -1.2 -0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c5992a5e-a382-4389-b1d1-e7531de1e493")
+	)
+	(fp_line
+		(start 1.2 0.9)
+		(end 1.2 -0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "531ed095-09b9-46d1-b24b-f88c1670a7d4")
+	)
+	(fp_line
+		(start -0.8 -0.5)
+		(end -0.8 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cefb4598-e4d1-49e2-a72c-ae311de8c32c")
+	)
+	(fp_line
+		(start -0.8 0)
+		(end -0.3 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d58db70e-8de9-4a13-a465-9c91af40d510")
+	)
+	(fp_line
+		(start -0.8 0.5)
+		(end 0.8 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "92e5f4ee-4a7d-4952-acce-c134d42c08fb")
+	)
+	(fp_line
+		(start 0.8 -0.5)
+		(end -0.8 -0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "808dbaba-4163-4de2-8314-81a2a1caad17")
+	)
+	(fp_line
+		(start 0.8 0.5)
+		(end 0.8 -0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15f635b2-8afb-4067-ae91-5251bcd27916")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "25a25e93-46e5-4205-a8f3-9015bc90e86c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.8 0)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "39366683-6509-481a-aca8-2005cb8a1b81")
+	)
+	(pad "2" smd rect
+		(at 0.8 0)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f97dbea0-6196-4390-b8e3-b6d914d463d8")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

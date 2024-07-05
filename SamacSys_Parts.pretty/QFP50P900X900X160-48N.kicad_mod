@@ -1,5 +1,5 @@
 (module "QFP50P900X900X160-48N" (layer F.Cu)
-  (descr "W5500")
+  (descr "FT232HL-TRAY_11")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference IC** (at 0 0) (layer F.SilkS)
@@ -73,7 +73,7 @@
   (pad 46 smd rect (at -1.75 -4.238 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at -2.25 -4.238 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -2.75 -4.238 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
-  (model "G:\kicad_my_library\SamacSys_Parts.3dshapes\\W5500.stp"
+  (model "E:\\kicad_my_library\\SamacSys_Parts.3dshapes\\FT232HL-TRAY.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

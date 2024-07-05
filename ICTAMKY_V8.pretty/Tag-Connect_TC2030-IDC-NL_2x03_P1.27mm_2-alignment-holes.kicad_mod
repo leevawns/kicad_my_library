@@ -1,0 +1,450 @@
+(footprint "Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_2-alignment-holes"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Tag-Connect programming header")
+	(tags "tag connect programming header pogo pins")
+	(property "Reference" "REF**"
+		(at -2.04 0.574 180)
+		(layer "F.SilkS")
+		(uuid "99f0bb54-b505-4cc2-b398-24bda84b1240")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "TAG-6PIN_2-Alignment-Pins"
+		(at -2.5 2.75 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bee11e1d-4ddf-44b9-92ed-e3251531f35e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "37a0beb3-327e-4783-8697-baa9cb87edba")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ade671eb-7530-4974-a3cc-0a680aeb8a14")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "b8284312-52d4-4e43-855b-50aa97434cb3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Author" "Antmicro"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d948929e-ff6c-4839-af15-643aa6822482")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "License" "Apache-2.0"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd31c6b5-e3fe-402b-a19c-cc527d846645")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d855d0f-2468-4605-9278-335c8c9737c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19ecc412-89fd-434d-934c-53784e87521e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start 5.1 1.4)
+		(end 5.1 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "277539e3-928a-48dd-9848-9d1a751b1455")
+	)
+	(fp_line
+		(start 5.1 -2.7)
+		(end 0 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c1c5cb3-d8a3-430a-83c8-a39142439dd5")
+	)
+	(fp_line
+		(start 0 1.4)
+		(end 5.1 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "320a35cd-ac7d-4963-9c22-3e2dc8ba8b74")
+	)
+	(fp_line
+		(start 0 -2.7)
+		(end -2.7 -1.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de9c498a-d5b0-4b08-be1c-a2ca2ec4df6a")
+	)
+	(fp_line
+		(start -2.7 0)
+		(end 0 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "443f27cf-65de-48be-a10d-1d1ded2ec350")
+	)
+	(fp_line
+		(start -2.7 -1.3)
+		(end -2.7 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5cf3d113-0df3-4d39-8aa1-aca5e07479d6")
+	)
+	(fp_circle
+		(center -0.3 1.5)
+		(end -0.249 1.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "2f457164-0c51-4985-a7f7-13326e98812b")
+	)
+	(fp_line
+		(start 2.536 0)
+		(end 2.536 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a81d70b8-caac-4d63-9801-7e1d1387328c")
+	)
+	(fp_line
+		(start 2.536 -0.634)
+		(end 1.9 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "dd350392-6fe0-4c4d-b561-677438c9c568")
+	)
+	(fp_line
+		(start 2.536 -1.27)
+		(end 1.267 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "eced89c7-ada5-4eab-8e97-952093e39550")
+	)
+	(fp_line
+		(start 2.536 -1.27)
+		(end 0 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "57788f10-b0c4-4137-b0db-f63592bfdc50")
+	)
+	(fp_line
+		(start 1.9 -1.27)
+		(end 0.631 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b77b6f7d-6262-4277-92eb-a4b63f19214b")
+	)
+	(fp_line
+		(start 1.267 -1.27)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e13982da-f4ec-4610-9690-9a9bca0c79fa")
+	)
+	(fp_line
+		(start 0.631 -1.27)
+		(end 0 -0.634)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "eb2b8518-7fae-4ffe-92e9-da791ab0413c")
+	)
+	(fp_line
+		(start 0 0)
+		(end 2.536 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "61907354-5c38-4f4b-ac3a-f86386f1283e")
+	)
+	(fp_line
+		(start 0 -1.27)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c6c17a87-f9c5-47a0-8837-31f54389a32d")
+	)
+	(fp_line
+		(start 5.35 1.65)
+		(end 5.35 -2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9565988-7199-4b17-bf2c-524305b5437a")
+	)
+	(fp_line
+		(start 5.35 -2.95)
+		(end -0.1 -2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "af71c2ae-ac8a-4292-88f1-2b4820256141")
+	)
+	(fp_line
+		(start -0.15 1.65)
+		(end 5.35 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "678b8084-ab97-460c-a132-9ef46846e70e")
+	)
+	(fp_line
+		(start -0.15 1.65)
+		(end -2.95 0.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "51a10698-79c5-4fe3-ad5c-3434c41edce9")
+	)
+	(fp_line
+		(start -2.95 -1.45)
+		(end -0.1 -2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3244f574-b401-4662-83a4-6d7deb97c5fa")
+	)
+	(fp_line
+		(start -2.95 -1.45)
+		(end -2.95 0.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "86fbd911-191c-480a-b469-046e3ac57e1d")
+	)
+	(fp_text user "KEEPOUT"
+		(at 1.267 -0.634 180)
+		(layer "Cmts.User")
+		(uuid "149103b4-38d8-435e-a7b4-ed56710eb6b9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -2.584 4.063 180)
+		(layer "F.Fab")
+		(uuid "385a87dd-c6d5-48ca-b6ba-f7fefcc3703a")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "License: Apache-2.0"
+		(at -2.6 6.55 180)
+		(layer "F.Fab")
+		(uuid "6c906d2a-c082-4b39-a977-4a40c9fe0abd")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Author: Antmicro"
+		(at -2.584 5.264 180)
+		(layer "F.Fab")
+		(uuid "bd8d5574-39ca-441b-aa2e-0b18727cc8dc")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 3.809 -1.651 180)
+		(size 0.9906 0.9906)
+		(drill 0.9906)
+		(layers "*.Cu" "*.Mask")
+		(uuid "3f8b907c-0d44-4ad2-8cf2-f02528a80a0c")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.809 0.377 180)
+		(size 0.9906 0.9906)
+		(drill 0.9906)
+		(layers "*.Cu" "*.Mask")
+		(uuid "028fc35d-e1a9-40f3-824e-3c4ef30b5af0")
+	)
+	(pad "1" connect circle
+		(at 0 0 180)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "046b66b5-d373-4696-8508-8879505bfac6")
+	)
+	(pad "2" connect circle
+		(at 0 -1.27 180)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "e0297339-6519-48c1-b2e9-846766d3eed9")
+	)
+	(pad "3" connect circle
+		(at 1.267 0 180)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "bf76c34b-844a-4515-9e05-ecec265a13aa")
+	)
+	(pad "4" connect circle
+		(at 1.267 -1.27 180)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "ec322e68-b40a-406b-bc16-95968fc1af10")
+	)
+	(pad "5" connect circle
+		(at 2.536 0 180)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "84957884-cdc0-44d7-a774-8d58a5f1a914")
+	)
+	(pad "6" connect circle
+		(at 2.536 -1.27 180)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "6e1612a2-6e12-45ea-a53b-7d2a81dadcbf")
+	)
+	(model "${ANT3DMDL}/Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical.step"
+		(offset
+			(xyz 1.6 -0.53 24)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 0 90)
+		)
+	)
+)

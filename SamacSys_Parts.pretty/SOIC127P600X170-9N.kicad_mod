@@ -1,5 +1,5 @@
 (module "SOIC127P600X170-9N" (layer F.Cu)
-  (descr "SOIC8E (EP)")
+  (descr "SOIC8E")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference IC** (at 0 0) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (pad 7 smd rect (at 2.712 -0.635 90) (size 0.7 1.525) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 2.712 -1.905 90) (size 0.7 1.525) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0 0 0) (size 2.56 3.45) (layers F.Cu F.Paste F.Mask))
-  (model "E:\\kicad_my_library\\SamacSys_Parts.3dshapes\\MP1584EN-LF-Z.stp"
+  (model "E:\\kicad_my_library\\SamacSys_Parts.3dshapes\\MP2482DN-LF-Z.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

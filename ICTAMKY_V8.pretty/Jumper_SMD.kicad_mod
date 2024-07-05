@@ -1,0 +1,123 @@
+(footprint "Jumper_SMD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 1.87 180)
+		(layer "F.Fab")
+		(uuid "bdb1506a-08a1-4da7-86e9-386cfd1f9d65")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SolderJumper_2_Open"
+		(at -2.159 0.165 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c3a0fa5-cc4f-40ac-95f6-5b170af1109c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "954990f4-7f4e-4cac-bb7a-faa7490e0b17")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ab611957-49a4-43ff-b0ab-5b96470c0d02")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f4a3f121-ef68-4047-8517-835a40d4bce8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_text user "833"
+		(at 0 1.562 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "150e0c39-280a-4afe-ab1d-462d08b4b31e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.08)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at 0 -0.1 180)
+		(size 0.1 0.1)
+		(layers "F.Cu" "F.Mask")
+		(clearance 0.14)
+		(zone_connect 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.6 -0.2) (xy 0.6 -0.4) (xy -0.6 -0.4) (xy -0.6 -0.2) (xy 0 0.4)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "3164f22e-fdc9-498f-98ef-42a5d5b04952")
+	)
+	(pad "2" smd custom
+		(at 0 0.8 180)
+		(size 0.1 0.1)
+		(layers "F.Cu" "F.Mask")
+		(clearance 0.14)
+		(zone_connect 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.6 -0.9) (xy 0 -0.3) (xy -0.6 -0.9) (xy -0.6 0.1) (xy 0.6 0.1)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "17ad9862-1a8f-46e7-8959-8d9e5a2604c0")
+	)
+)

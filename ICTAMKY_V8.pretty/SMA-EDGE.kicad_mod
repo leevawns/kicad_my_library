@@ -1,0 +1,237 @@
+(footprint "SMA-EDGE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "CLK_REF_10MHZ_T1"
+		(at 0.5 -9.5 90)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "dbccfee9-449c-444a-afad-7e3f4276d80e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SMA-CONN"
+		(at 2.05 3.775 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "23cfd11a-904c-4e3b-bfbf-562f6fa4f605")
+		(effects
+			(font
+				(size 0.50038 0.50038)
+				(thickness 0.12446)
+			)
+		)
+	)
+	(property "Footprint" "kicad:SMA-EDGE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "087af637-02ee-4cb5-bbd0-25eab372a2cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6ee4047-a57b-4a62-ace3-233da3d4fb55")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SMA-CONN"
+		(at 114.425 42.85 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fbb56781-2416-4d57-b137-6fef9f4b0651")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Accuracy" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51bde124-1a37-48d2-9a80-c52ac8f4d667")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9b0bbaf-70f1-4e95-913b-69e63d5a3c5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Note" "Alt 732512120"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0ad0ab7-6389-406a-aaa9-88ea291f1945")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PN" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "586f84aa-aa53-48c0-a5f0-ad4db3cf252e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "RF2-145A-T-17-50-G-HDW"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4f1f4c7-f74d-40c0-b9a9-4e64c889a3d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Ref" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "092ef6e1-527e-4554-b049-d41ea86a8344")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "URL" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ca13f17-2691-4582-be7c-8a2a57077281")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC_Part" "C914558"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f82f4a5-7295-4ab8-805b-7a23618880ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "SMA-KE-P903"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0331464c-0d66-42d6-8079-013fde382bbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Notes" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c5f4eee-e46e-4de4-968e-681d9ba43539")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(pad "1" smd rect
+		(at 2.032 0)
+		(size 4.064 1.524)
+		(layers "F.Cu" "F.Mask")
+		(die_length -1518.485687)
+		(uuid "c0d2925e-90b0-4236-8d89-ae0c08a26d80")
+	)
+	(pad "2" smd rect
+		(at 2.032 2.54)
+		(size 4.064 1.524)
+		(layers "F.Cu" "F.Mask")
+		(die_length 483.12832)
+		(uuid "0c818f1e-8b6d-4991-900d-10972e540b67")
+	)
+	(pad "3" smd rect
+		(at 2.032 -2.54)
+		(size 4.064 1.524)
+		(layers "F.Cu" "F.Mask")
+		(uuid "9da5987a-cb74-4f69-8c28-9312f039a87d")
+	)
+	(pad "4" smd rect
+		(at 2.032 2.54)
+		(size 4.064 1.524)
+		(layers "B.Cu" "B.Mask")
+		(die_length 509.13792)
+		(uuid "3488032d-4cb5-46bb-bdcc-dd026c692026")
+	)
+	(pad "5" smd rect
+		(at 2.032 -2.54)
+		(size 4.064 1.524)
+		(layers "B.Cu" "B.Mask")
+		(uuid "b116b946-e1d6-45e3-af67-046ab9439ae4")
+	)
+	(model "${KISYS3DMOD}/Connectors_Molex.3dshapes/73251-2121.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
